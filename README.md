@@ -11,8 +11,8 @@ Include the following script in your page:
 
 ```<script src="https://sitegui-platform.github.io/countries-states-cities-wards/sgaddress.js?v=15" id="sg-js-address" data-source="https://raw.githubusercontent.com/SiteGUI-platform/countries-states-cities-wards/main/"></script>```
 
-Add a wrapper around your address input fields and change data-selector-* to relevant input's ID/class (CSS selector). Enable data-addr-add to allow adding non-existing value to the inputs.
+Add a wrapper around your address input fields and change data-selector-* to relevant input's ID/class (CSS selector). Enable data-addr-add to allow adding non-existing value to the inputs and specify data-selector-street2 to allow ward/district selection.
 
 ```<div class="sg-js-address" data-addr-add="1" data-default-country="US" data-selector-country="select.billing-country" data-selector-state=".sg-address-state" data-selector-zip=".sg-address-zip" data-selector-city=".sg-address-city-input" data-selector-street2=".sg-address-street2">```
 
-Feel free to fork and maintain your own country databases. However, if the country databases here are outdated or inaccurate, we'd appreciate if you can make a pull request to update them here to share it with other people. 
+Feel free to fork and maintain your own country databases (remember to update "data-source" to point to your source). However, if the country databases here are outdated or inaccurate, we'd appreciate if you can make a pull request to update them here to share it with other people. 
