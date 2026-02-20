@@ -1,1 +1,912 @@
-{"Anh S\u01a1n":{"Th\u1ecb tr\u1ea5n Anh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"Th\u1ecb tr\u1ea5n Anh S\u01a1n"},"X\u00e3 Th\u1ecd S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Th\u1ecd S\u01a1n"},"X\u00e3 Th\u00e0nh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Th\u00e0nh S\u01a1n"},"X\u00e3 B\u00ecnh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 B\u00ecnh S\u01a1n"},"X\u00e3 Tam S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Tam S\u01a1n"},"X\u00e3 \u0110\u1ec9nh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 \u0110\u1ec9nh S\u01a1n"},"X\u00e3 H\u00f9ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 H\u00f9ng S\u01a1n"},"X\u00e3 C\u1ea9m S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 C\u1ea9m S\u01a1n"},"X\u00e3 \u0110\u1ee9c S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 \u0110\u1ee9c S\u01a1n"},"X\u00e3 T\u01b0\u1eddng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 T\u01b0\u1eddng S\u01a1n"},"X\u00e3 Hoa S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Hoa S\u01a1n"},"X\u00e3 T\u00e0o S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 T\u00e0o S\u01a1n"},"X\u00e3 V\u0129nh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 V\u0129nh S\u01a1n"},"X\u00e3 L\u1ea1ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 L\u1ea1ng S\u01a1n"},"X\u00e3 H\u1ed9i S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 H\u1ed9i S\u01a1n"},"X\u00e3 Th\u1ea1ch S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Th\u1ea1ch S\u01a1n"},"X\u00e3 Ph\u00fac S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Ph\u00fac S\u01a1n"},"X\u00e3 Long S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Long S\u01a1n"},"X\u00e3 Khai S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Khai S\u01a1n"},"X\u00e3 L\u0129nh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 L\u0129nh S\u01a1n"},"X\u00e3 Cao S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Anh S\u01a1n","ward":"X\u00e3 Cao S\u01a1n"}},"Con Cu\u00f4ng":{"Th\u1ecb tr\u1ea5n Con Cu\u00f4ng":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"Th\u1ecb tr\u1ea5n Con Cu\u00f4ng"},"X\u00e3 B\u00ecnh Chu\u1ea9n":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 B\u00ecnh Chu\u1ea9n"},"X\u00e3 L\u1ea1ng Kh\u00ea":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 L\u1ea1ng Kh\u00ea"},"X\u00e3 Cam L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 Cam L\u00e2m"},"X\u00e3 Th\u1ea1ch Ng\u00e0n":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 Th\u1ea1ch Ng\u00e0n"},"X\u00e3 \u0110\u00f4n Ph\u1ee5c":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 \u0110\u00f4n Ph\u1ee5c"},"X\u00e3 M\u1eadu \u0110\u1ee9c":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 M\u1eadu \u0110\u1ee9c"},"X\u00e3 Ch\u00e2u Kh\u00ea":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 Ch\u00e2u Kh\u00ea"},"X\u00e3 Chi Kh\u00ea":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 Chi Kh\u00ea"},"X\u00e3 B\u1ed3ng Kh\u00ea":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 B\u1ed3ng Kh\u00ea"},"X\u00e3 Y\u00ean Kh\u00ea":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 Y\u00ean Kh\u00ea"},"X\u00e3 L\u1ee5c D\u1ea1":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 L\u1ee5c D\u1ea1"},"X\u00e3 M\u00f4n S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Con Cu\u00f4ng","ward":"X\u00e3 M\u00f4n S\u01a1n"}},"Di\u1ec5n Ch\u00e2u":{"Th\u1ecb tr\u1ea5n Di\u1ec5n Ch\u00e2u":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"Th\u1ecb tr\u1ea5n Di\u1ec5n Ch\u00e2u"},"X\u00e3 Di\u1ec5n L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n L\u00e2m"},"X\u00e3 Di\u1ec5n \u0110o\u00e0i":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n \u0110o\u00e0i"},"X\u00e3 Di\u1ec5n Tr\u01b0\u1eddng":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Tr\u01b0\u1eddng"},"X\u00e3 Di\u1ec5n Y\u00ean":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Y\u00ean"},"X\u00e3 Di\u1ec5n Ho\u00e0ng":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Ho\u00e0ng"},"X\u00e3 Di\u1ec5n H\u00f9ng":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n H\u00f9ng"},"X\u00e3 Di\u1ec5n M\u1ef9":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n M\u1ef9"},"X\u00e3 Di\u1ec5n H\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n H\u1ed3ng"},"X\u00e3 Di\u1ec5n Phong":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Phong"},"X\u00e3 Di\u1ec5n H\u1ea3i":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n H\u1ea3i"},"X\u00e3 Di\u1ec5n Th\u00e1p":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Th\u00e1p"},"X\u00e3 Di\u1ec5n Li\u00ean":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Li\u00ean"},"X\u00e3 Di\u1ec5n V\u1ea1n":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n V\u1ea1n"},"X\u00e3 Di\u1ec5n Kim":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Kim"},"X\u00e3 Di\u1ec5n K\u1ef7":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n K\u1ef7"},"X\u00e3 Di\u1ec5n Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Xu\u00e2n"},"X\u00e3 Di\u1ec5n Th\u00e1i":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Th\u00e1i"},"X\u00e3 Di\u1ec5n \u0110\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n \u0110\u1ed3ng"},"X\u00e3 Di\u1ec5n B\u00edch":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n B\u00edch"},"X\u00e3 Di\u1ec5n H\u1ea1nh":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n H\u1ea1nh"},"X\u00e3 Di\u1ec5n Ng\u1ecdc":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Ng\u1ecdc"},"X\u00e3 Di\u1ec5n Qu\u1ea3ng":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Qu\u1ea3ng"},"X\u00e3 Di\u1ec5n Nguy\u00ean":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Nguy\u00ean"},"X\u00e3 Di\u1ec5n Hoa":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Hoa"},"X\u00e3 Di\u1ec5n Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Th\u00e0nh"},"X\u00e3 Di\u1ec5n Ph\u00fac":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Ph\u00fac"},"X\u00e3 Di\u1ec5n C\u00e1t":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n C\u00e1t"},"X\u00e3 Di\u1ec5n Th\u1ecbnh":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Th\u1ecbnh"},"X\u00e3 Di\u1ec5n T\u00e2n":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n T\u00e2n"},"X\u00e3 Minh Ch\u00e2u":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Minh Ch\u00e2u"},"X\u00e3 Di\u1ec5n Th\u1ecd":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Th\u1ecd"},"X\u00e3 Di\u1ec5n L\u1ee3i":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n L\u1ee3i"},"X\u00e3 Di\u1ec5n L\u1ed9c":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n L\u1ed9c"},"X\u00e3 Di\u1ec5n Trung":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Trung"},"X\u00e3 Di\u1ec5n An":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n An"},"X\u00e3 Di\u1ec5n Ph\u00fa":{"state":"Ngh\u1ec7 An","city":"Di\u1ec5n Ch\u00e2u","ward":"X\u00e3 Di\u1ec5n Ph\u00fa"}},"\u0110\u00f4 L\u01b0\u01a1ng":{"Th\u1ecb tr\u1ea5n \u0110\u00f4 L\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"Th\u1ecb tr\u1ea5n \u0110\u00f4 L\u01b0\u01a1ng"},"X\u00e3 Giang S\u01a1n \u0110\u00f4ng":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Giang S\u01a1n \u0110\u00f4ng"},"X\u00e3 Giang S\u01a1n T\u00e2y":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Giang S\u01a1n T\u00e2y"},"X\u00e3 Lam S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Lam S\u01a1n"},"X\u00e3 B\u1ed3i S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 B\u1ed3i S\u01a1n"},"X\u00e3 H\u1ed3ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 H\u1ed3ng S\u01a1n"},"X\u00e3 B\u00e0i S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 B\u00e0i S\u01a1n"},"X\u00e3 Ng\u1ecdc S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Ng\u1ecdc S\u01a1n"},"X\u00e3 B\u1eafc S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 B\u1eafc S\u01a1n"},"X\u00e3 Tr\u00e0ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Tr\u00e0ng S\u01a1n"},"X\u00e3 Th\u01b0\u1ee3ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Th\u01b0\u1ee3ng S\u01a1n"},"X\u00e3 H\u00f2a S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 H\u00f2a S\u01a1n"},"X\u00e3 \u0110\u1eb7ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 \u0110\u1eb7ng S\u01a1n"},"X\u00e3 \u0110\u00f4ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 \u0110\u00f4ng S\u01a1n"},"X\u00e3 Nam S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Nam S\u01a1n"},"X\u00e3 L\u01b0u S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 L\u01b0u S\u01a1n"},"X\u00e3 Y\u00ean S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Y\u00ean S\u01a1n"},"X\u00e3 V\u0103n S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 V\u0103n S\u01a1n"},"X\u00e3 \u0110\u00e0 S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 \u0110\u00e0 S\u01a1n"},"X\u00e3 L\u1ea1c S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 L\u1ea1c S\u01a1n"},"X\u00e3 T\u00e2n S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 T\u00e2n S\u01a1n"},"X\u00e3 Th\u00e1i S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Th\u00e1i S\u01a1n"},"X\u00e3 Quang S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Quang S\u01a1n"},"X\u00e3 Th\u1ecbnh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Th\u1ecbnh S\u01a1n"},"X\u00e3 Trung S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Trung S\u01a1n"},"X\u00e3 Xu\u00e2n S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Xu\u00e2n S\u01a1n"},"X\u00e3 Minh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Minh S\u01a1n"},"X\u00e3 Thu\u1eadn S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Thu\u1eadn S\u01a1n"},"X\u00e3 Nh\u00e2n S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Nh\u00e2n S\u01a1n"},"X\u00e3 Hi\u1ebfn S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Hi\u1ebfn S\u01a1n"},"X\u00e3 M\u1ef9 S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 M\u1ef9 S\u01a1n"},"X\u00e3 Tr\u00f9 S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 Tr\u00f9 S\u01a1n"},"X\u00e3 \u0110\u1ea1i S\u01a1n":{"state":"Ngh\u1ec7 An","city":"\u0110\u00f4 L\u01b0\u01a1ng","ward":"X\u00e3 \u0110\u1ea1i S\u01a1n"}},"H\u01b0ng Nguy\u00ean":{"Th\u1ecb tr\u1ea5n H\u01b0ng Nguy\u00ean":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"Th\u1ecb tr\u1ea5n H\u01b0ng Nguy\u00ean"},"X\u00e3 H\u01b0ng Trung":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Trung"},"X\u00e3 H\u01b0ng Y\u00ean":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Y\u00ean"},"X\u00e3 H\u01b0ng Y\u00ean B\u1eafc":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Y\u00ean B\u1eafc"},"X\u00e3 H\u01b0ng T\u00e2y":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng T\u00e2y"},"X\u00e3 H\u01b0ng \u0110\u1ea1o":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng \u0110\u1ea1o"},"X\u00e3 H\u01b0ng M\u1ef9":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng M\u1ef9"},"X\u00e3 H\u01b0ng Th\u1ecbnh":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Th\u1ecbnh"},"X\u00e3 H\u01b0ng L\u0129nh":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng L\u0129nh"},"X\u00e3 H\u01b0ng Th\u00f4ng":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Th\u00f4ng"},"X\u00e3 H\u01b0ng T\u00e2n":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng T\u00e2n"},"X\u00e3 H\u01b0ng L\u1ee3i":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng L\u1ee3i"},"X\u00e3 H\u01b0ng Ngh\u0129a":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Ngh\u0129a"},"X\u00e3 H\u01b0ng Ph\u00fac":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Ph\u00fac"},"X\u00e3 Long X\u00e1":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 Long X\u00e1"},"X\u00e3 Ch\u00e2u Nh\u00e2n":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 Ch\u00e2u Nh\u00e2n"},"X\u00e3 Xu\u00e2n Lam":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 Xu\u00e2n Lam"},"X\u00e3 H\u01b0ng Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"H\u01b0ng Nguy\u00ean","ward":"X\u00e3 H\u01b0ng Th\u00e0nh"}},"K\u1ef3 S\u01a1n":{"Th\u1ecb tr\u1ea5n M\u01b0\u1eddng X\u00e9n":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"Th\u1ecb tr\u1ea5n M\u01b0\u1eddng X\u00e9n"},"X\u00e3 M\u1ef9 L\u00fd":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 M\u1ef9 L\u00fd"},"X\u00e3 B\u1eafc L\u00fd":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 B\u1eafc L\u00fd"},"X\u00e3 Keng \u0110u":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 Keng \u0110u"},"X\u00e3 \u0110o\u1ecdc M\u1ea1y":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 \u0110o\u1ecdc M\u1ea1y"},"X\u00e3 Hu\u1ed3i T\u1ee5":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 Hu\u1ed3i T\u1ee5"},"X\u00e3 M\u01b0\u1eddng L\u1ed1ng":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 M\u01b0\u1eddng L\u1ed1ng"},"X\u00e3 Na Loi":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 Na Loi"},"X\u00e3 N\u1eadm C\u1eafn":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 N\u1eadm C\u1eafn"},"X\u00e3 B\u1ea3o Nam":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 B\u1ea3o Nam"},"X\u00e3 Ph\u00e0 \u0110\u00e1nh":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 Ph\u00e0 \u0110\u00e1nh"},"X\u00e3 B\u1ea3o Th\u1eafng":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 B\u1ea3o Th\u1eafng"},"X\u00e3 H\u1eefu L\u1eadp":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 H\u1eefu L\u1eadp"},"X\u00e3 T\u00e0 C\u1ea1":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 T\u00e0 C\u1ea1"},"X\u00e3 Chi\u00eau L\u01b0u":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 Chi\u00eau L\u01b0u"},"X\u00e3 M\u01b0\u1eddng T\u00edp":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 M\u01b0\u1eddng T\u00edp"},"X\u00e3 H\u1eefu Ki\u1ec7m":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 H\u1eefu Ki\u1ec7m"},"X\u00e3 T\u00e2y S\u01a1n":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 T\u00e2y S\u01a1n"},"X\u00e3 M\u01b0\u1eddng \u1ea2i":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 M\u01b0\u1eddng \u1ea2i"},"X\u00e3 Na Ngoi":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 Na Ngoi"},"X\u00e3 N\u1eadm C\u00e0n":{"state":"Ngh\u1ec7 An","city":"K\u1ef3 S\u01a1n","ward":"X\u00e3 N\u1eadm C\u00e0n"}},"Nam \u0110\u00e0n":{"X\u00e3 Nam H\u01b0ng":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam H\u01b0ng"},"X\u00e3 Nam Ngh\u0129a":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam Ngh\u0129a"},"X\u00e3 Nam Thanh":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam Thanh"},"X\u00e3 Nam Anh":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam Anh"},"X\u00e3 Nam Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam Xu\u00e2n"},"X\u00e3 Nam Th\u00e1i":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam Th\u00e1i"},"Th\u1ecb tr\u1ea5n Nam \u0110\u00e0n":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"Th\u1ecb tr\u1ea5n Nam \u0110\u00e0n"},"X\u00e3 Nam L\u0129nh":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam L\u0129nh"},"X\u00e3 Nam Giang":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam Giang"},"X\u00e3 Xu\u00e2n H\u00f2a":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Xu\u00e2n H\u00f2a"},"X\u00e3 H\u00f9ng Ti\u1ebfn":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 H\u00f9ng Ti\u1ebfn"},"X\u00e3 Th\u01b0\u1ee3ng T\u00e2n L\u1ed9c":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Th\u01b0\u1ee3ng T\u00e2n L\u1ed9c"},"X\u00e3 Kim Li\u00ean":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Kim Li\u00ean"},"X\u00e3 H\u1ed3ng Long":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 H\u1ed3ng Long"},"X\u00e3 Xu\u00e2n L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Xu\u00e2n L\u00e2m"},"X\u00e3 Nam C\u00e1t":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam C\u00e1t"},"X\u00e3 Kh\u00e1nh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Kh\u00e1nh S\u01a1n"},"X\u00e3 Trung Ph\u00fac C\u01b0\u1eddng":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Trung Ph\u00fac C\u01b0\u1eddng"},"X\u00e3 Nam Kim":{"state":"Ngh\u1ec7 An","city":"Nam \u0110\u00e0n","ward":"X\u00e3 Nam Kim"}},"Nghi L\u1ed9c":{"Th\u1ecb tr\u1ea5n Qu\u00e1n H\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"Th\u1ecb tr\u1ea5n Qu\u00e1n H\u00e0nh"},"X\u00e3 Nghi V\u0103n":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi V\u0103n"},"X\u00e3 Nghi Y\u00ean":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Y\u00ean"},"X\u00e3 Nghi Ti\u1ebfn":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Ti\u1ebfn"},"X\u00e3 Nghi H\u01b0ng":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi H\u01b0ng"},"X\u00e3 Nghi \u0110\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi \u0110\u1ed3ng"},"X\u00e3 Nghi Thi\u1ebft":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Thi\u1ebft"},"X\u00e3 Nghi L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi L\u00e2m"},"X\u00e3 Nghi Quang":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Quang"},"X\u00e3 Nghi Ki\u1ec1u":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Ki\u1ec1u"},"X\u00e3 Nghi M\u1ef9":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi M\u1ef9"},"X\u00e3 Nghi Ph\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Ph\u01b0\u01a1ng"},"X\u00e3 Nghi Thu\u1eadn":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Thu\u1eadn"},"X\u00e3 Nghi Long":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Long"},"X\u00e3 Nghi X\u00e1":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi X\u00e1"},"X\u00e3 Nghi Hoa":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Hoa"},"X\u00e3 Kh\u00e1nh H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Kh\u00e1nh H\u1ee3p"},"X\u00e3 Nghi Th\u1ecbnh":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Th\u1ecbnh"},"X\u00e3 Nghi C\u00f4ng B\u1eafc":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi C\u00f4ng B\u1eafc"},"X\u00e3 Nghi C\u00f4ng Nam":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi C\u00f4ng Nam"},"X\u00e3 Nghi Th\u1ea1ch":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Th\u1ea1ch"},"X\u00e3 Nghi Trung":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Trung"},"X\u00e3 Nghi Tr\u01b0\u1eddng":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Tr\u01b0\u1eddng"},"X\u00e3 Nghi Di\u00ean":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Di\u00ean"},"X\u00e3 Nghi Phong":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Phong"},"X\u00e3 Nghi Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Xu\u00e2n"},"X\u00e3 Nghi V\u1ea1n":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi V\u1ea1n"},"X\u00e3 Ph\u00fac Th\u1ecd":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Ph\u00fac Th\u1ecd"},"X\u00e3 Nghi Th\u00e1i":{"state":"Ngh\u1ec7 An","city":"Nghi L\u1ed9c","ward":"X\u00e3 Nghi Th\u00e1i"}},"Ngh\u0129a \u0110\u00e0n":{"Th\u1ecb tr\u1ea5n Ngh\u0129a \u0110\u00e0n":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"Th\u1ecb tr\u1ea5n Ngh\u0129a \u0110\u00e0n"},"X\u00e3 Ngh\u0129a Mai":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Mai"},"X\u00e3 Ngh\u0129a Y\u00ean":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Y\u00ean"},"X\u00e3 Ngh\u0129a L\u1ea1c":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a L\u1ea1c"},"X\u00e3 Ngh\u0129a L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a L\u00e2m"},"X\u00e3 Ngh\u0129a S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a S\u01a1n"},"X\u00e3 Ngh\u0129a L\u1ee3i":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a L\u1ee3i"},"X\u00e3 Ngh\u0129a B\u00ecnh":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a B\u00ecnh"},"X\u00e3 Ngh\u0129a Th\u1ecd":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Th\u1ecd"},"X\u00e3 Ngh\u0129a Minh":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Minh"},"X\u00e3 Ngh\u0129a Ph\u00fa":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Ph\u00fa"},"X\u00e3 Ngh\u0129a H\u01b0ng":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a H\u01b0ng"},"X\u00e3 Ngh\u0129a H\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a H\u1ed3ng"},"X\u00e3 Ngh\u0129a Th\u1ecbnh":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Th\u1ecbnh"},"X\u00e3 Ngh\u0129a Trung":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Trung"},"X\u00e3 Ngh\u0129a H\u1ed9i":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a H\u1ed9i"},"X\u00e3 Ngh\u0129a Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Th\u00e0nh"},"X\u00e3 Ngh\u0129a Hi\u1ebfu":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Hi\u1ebfu"},"X\u00e3 Ngh\u0129a \u0110\u1ee9c":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a \u0110\u1ee9c"},"X\u00e3 Ngh\u0129a An":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a An"},"X\u00e3 Ngh\u0129a Long":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Long"},"X\u00e3 Ngh\u0129a L\u1ed9c":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a L\u1ed9c"},"X\u00e3 Ngh\u0129a Kh\u00e1nh":{"state":"Ngh\u1ec7 An","city":"Ngh\u0129a \u0110\u00e0n","ward":"X\u00e3 Ngh\u0129a Kh\u00e1nh"}},"Qu\u1ebf Phong":{"Th\u1ecb tr\u1ea5n Kim S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"Th\u1ecb tr\u1ea5n Kim S\u01a1n"},"X\u00e3 Th\u00f4ng Th\u1ee5":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 Th\u00f4ng Th\u1ee5"},"X\u00e3 \u0110\u1ed3ng V\u0103n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 \u0110\u1ed3ng V\u0103n"},"X\u00e3 H\u1ea1nh D\u1ecbch":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 H\u1ea1nh D\u1ecbch"},"X\u00e3 Ti\u1ec1n Phong":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 Ti\u1ec1n Phong"},"X\u00e3 N\u1eadm Gi\u1ea3i":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 N\u1eadm Gi\u1ea3i"},"X\u00e3 Tri L\u1ec5":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 Tri L\u1ec5"},"X\u00e3 Ch\u00e2u Kim":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 Ch\u00e2u Kim"},"X\u00e3 M\u01b0\u1eddng N\u1ecdc":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 M\u01b0\u1eddng N\u1ecdc"},"X\u00e3 Ch\u00e2u Th\u00f4n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 Ch\u00e2u Th\u00f4n"},"X\u00e3 N\u1eadm Nho\u00f3ng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 N\u1eadm Nho\u00f3ng"},"X\u00e3 Quang Phong":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 Quang Phong"},"X\u00e3 C\u0103m Mu\u1ed9n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ebf Phong","ward":"X\u00e3 C\u0103m Mu\u1ed9n"}},"Qu\u1ef3 Ch\u00e2u":{"Th\u1ecb tr\u1ea5n T\u00e2n L\u1ea1c":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"Th\u1ecb tr\u1ea5n T\u00e2n L\u1ea1c"},"X\u00e3 Ch\u00e2u B\u00ednh":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u B\u00ednh"},"X\u00e3 Ch\u00e2u Thu\u1eadn":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u Thu\u1eadn"},"X\u00e3 Ch\u00e2u H\u1ed9i":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u H\u1ed9i"},"X\u00e3 Ch\u00e2u Nga":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u Nga"},"X\u00e3 Ch\u00e2u Ti\u1ebfn":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u Ti\u1ebfn"},"X\u00e3 Ch\u00e2u H\u1ea1nh":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u H\u1ea1nh"},"X\u00e3 Ch\u00e2u Th\u1eafng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u Th\u1eafng"},"X\u00e3 Ch\u00e2u Phong":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u Phong"},"X\u00e3 Ch\u00e2u B\u00ecnh":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u B\u00ecnh"},"X\u00e3 Ch\u00e2u Ho\u00e0n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Ch\u00e2u Ho\u00e0n"},"X\u00e3 Di\u00ean L\u00e3m":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 Ch\u00e2u","ward":"X\u00e3 Di\u00ean L\u00e3m"}},"Qu\u1ef3 H\u1ee3p":{"Th\u1ecb tr\u1ea5n Qu\u1ef3 H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"Th\u1ecb tr\u1ea5n Qu\u1ef3 H\u1ee3p"},"X\u00e3 Y\u00ean H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Y\u00ean H\u1ee3p"},"X\u00e3 Ch\u00e2u Ti\u1ebfn":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u Ti\u1ebfn"},"X\u00e3 Ch\u00e2u H\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u H\u1ed3ng"},"X\u00e3 \u0110\u1ed3ng H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 \u0110\u1ed3ng H\u1ee3p"},"X\u00e3 Ch\u00e2u Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u Th\u00e0nh"},"X\u00e3 Li\u00ean H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Li\u00ean H\u1ee3p"},"X\u00e3 Ch\u00e2u L\u1ed9c":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u L\u1ed9c"},"X\u00e3 Tam H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Tam H\u1ee3p"},"X\u00e3 Ch\u00e2u C\u01b0\u1eddng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u C\u01b0\u1eddng"},"X\u00e3 Ch\u00e2u Quang":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u Quang"},"X\u00e3 Th\u1ecd H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Th\u1ecd H\u1ee3p"},"X\u00e3 Minh H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Minh H\u1ee3p"},"X\u00e3 Ngh\u0129a Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ngh\u0129a Xu\u00e2n"},"X\u00e3 Ch\u00e2u Th\u00e1i":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u Th\u00e1i"},"X\u00e3 Ch\u00e2u \u0110\u00ecnh":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u \u0110\u00ecnh"},"X\u00e3 V\u0103n L\u1ee3i":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 V\u0103n L\u1ee3i"},"X\u00e3 Nam S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Nam S\u01a1n"},"X\u00e3 Ch\u00e2u L\u00fd":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 Ch\u00e2u L\u00fd"},"X\u00e3 H\u1ea1 S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 H\u1ea1 S\u01a1n"},"X\u00e3 B\u1eafc S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3 H\u1ee3p","ward":"X\u00e3 B\u1eafc S\u01a1n"}},"Qu\u1ef3nh L\u01b0u":{"Th\u1ecb tr\u1ea5n C\u1ea7u Gi\u00e1t":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"Th\u1ecb tr\u1ea5n C\u1ea7u Gi\u00e1t"},"X\u00e3 Qu\u1ef3nh Th\u1eafng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Th\u1eafng"},"X\u00e3 Qu\u1ef3nh T\u00e2n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh T\u00e2n"},"X\u00e3 Qu\u1ef3nh Ch\u00e2u":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Ch\u00e2u"},"X\u00e3 T\u00e2n S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 T\u00e2n S\u01a1n"},"X\u00e3 Qu\u1ef3nh V\u0103n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh V\u0103n"},"X\u00e3 Ng\u1ecdc S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Ng\u1ecdc S\u01a1n"},"X\u00e3 Qu\u1ef3nh Tam":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Tam"},"X\u00e3 Qu\u1ef3nh Hoa":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Hoa"},"X\u00e3 Qu\u1ef3nh Th\u1ea1ch":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Th\u1ea1ch"},"X\u00e3 Qu\u1ef3nh B\u1ea3ng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh B\u1ea3ng"},"X\u00e3 Qu\u1ef3nh M\u1ef9":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh M\u1ef9"},"X\u00e3 Qu\u1ef3nh Thanh":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Thanh"},"X\u00e3 Qu\u1ef3nh H\u1eadu":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh H\u1eadu"},"X\u00e3 Qu\u1ef3nh L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh L\u00e2m"},"X\u00e3 Qu\u1ef3nh \u0110\u00f4i":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh \u0110\u00f4i"},"X\u00e3 Qu\u1ef3nh L\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh L\u01b0\u01a1ng"},"X\u00e3 Qu\u1ef3nh H\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh H\u1ed3ng"},"X\u00e3 Qu\u1ef3nh Y\u00ean":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Y\u00ean"},"X\u00e3 Qu\u1ef3nh B\u00e1":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh B\u00e1"},"X\u00e3 Qu\u1ef3nh Minh":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Minh"},"X\u00e3 Qu\u1ef3nh Di\u1ec5n":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Di\u1ec5n"},"X\u00e3 Qu\u1ef3nh H\u01b0ng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh H\u01b0ng"},"X\u00e3 Qu\u1ef3nh Giang":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Giang"},"X\u00e3 Qu\u1ef3nh Ng\u1ecdc":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Ng\u1ecdc"},"X\u00e3 Qu\u1ef3nh Ngh\u0129a":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Ngh\u0129a"},"X\u00e3 An H\u00f2a":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 An H\u00f2a"},"X\u00e3 Ti\u1ebfn Th\u1ee7y":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Ti\u1ebfn Th\u1ee7y"},"X\u00e3 S\u01a1n H\u1ea3i":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 S\u01a1n H\u1ea3i"},"X\u00e3 Qu\u1ef3nh Th\u1ecd":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Th\u1ecd"},"X\u00e3 Qu\u1ef3nh Thu\u1eadn":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Thu\u1eadn"},"X\u00e3 Qu\u1ef3nh Long":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 Qu\u1ef3nh Long"},"X\u00e3 T\u00e2n Th\u1eafng":{"state":"Ngh\u1ec7 An","city":"Qu\u1ef3nh L\u01b0u","ward":"X\u00e3 T\u00e2n Th\u1eafng"}},"T\u00e2n K\u1ef3":{"Th\u1ecb tr\u1ea5n T\u00e2n K\u1ef3":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"Th\u1ecb tr\u1ea5n T\u00e2n K\u1ef3"},"X\u00e3 T\u00e2n H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 T\u00e2n H\u1ee3p"},"X\u00e3 T\u00e2n Ph\u00fa":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 T\u00e2n Ph\u00fa"},"X\u00e3 T\u00e2n Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 T\u00e2n Xu\u00e2n"},"X\u00e3 Giai Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Giai Xu\u00e2n"},"X\u00e3 Ngh\u0129a B\u00ecnh":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a B\u00ecnh"},"X\u00e3 Ngh\u0129a \u0110\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a \u0110\u1ed3ng"},"X\u00e3 \u0110\u1ed3ng V\u0103n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 \u0110\u1ed3ng V\u0103n"},"X\u00e3 Ngh\u0129a Th\u00e1i":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a Th\u00e1i"},"X\u00e3 Ngh\u0129a H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a H\u1ee3p"},"X\u00e3 Ngh\u0129a Ho\u00e0n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a Ho\u00e0n"},"X\u00e3 Ngh\u0129a Ph\u00fac":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a Ph\u00fac"},"X\u00e3 Ti\u00ean K\u1ef3":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ti\u00ean K\u1ef3"},"X\u00e3 T\u00e2n An":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 T\u00e2n An"},"X\u00e3 Ngh\u0129a D\u0169ng":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a D\u0169ng"},"X\u00e3 T\u00e2n Long":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 T\u00e2n Long"},"X\u00e3 K\u1ef3 S\u01a1n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 K\u1ef3 S\u01a1n"},"X\u00e3 H\u01b0\u01a1ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 H\u01b0\u01a1ng S\u01a1n"},"X\u00e3 K\u1ef3 T\u00e2n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 K\u1ef3 T\u00e2n"},"X\u00e3 Ph\u00fa S\u01a1n":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ph\u00fa S\u01a1n"},"X\u00e3 T\u00e2n H\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 T\u00e2n H\u01b0\u01a1ng"},"X\u00e3 Ngh\u0129a H\u00e0nh":{"state":"Ngh\u1ec7 An","city":"T\u00e2n K\u1ef3","ward":"X\u00e3 Ngh\u0129a H\u00e0nh"}},"Thanh Ch\u01b0\u01a1ng":{"Th\u1ecb tr\u1ea5n Thanh Ch\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"Th\u1ecb tr\u1ea5n Thanh Ch\u01b0\u01a1ng"},"X\u00e3 C\u00e1t V\u0103n":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 C\u00e1t V\u0103n"},"X\u00e3 Thanh Nho":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Nho"},"X\u00e3 H\u1ea1nh L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 H\u1ea1nh L\u00e2m"},"X\u00e3 Thanh S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh S\u01a1n"},"X\u00e3 Thanh H\u00f2a":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh H\u00f2a"},"X\u00e3 Phong Th\u1ecbnh":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Phong Th\u1ecbnh"},"X\u00e3 Thanh Phong":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Phong"},"X\u00e3 Thanh M\u1ef9":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh M\u1ef9"},"X\u00e3 Thanh Ti\u00ean":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Ti\u00ean"},"X\u00e3 Thanh Li\u00ean":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Li\u00ean"},"X\u00e3 \u0110\u1ea1i \u0110\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 \u0110\u1ea1i \u0110\u1ed3ng"},"X\u00e3 Thanh \u0110\u1ed3ng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh \u0110\u1ed3ng"},"X\u00e3 Thanh Ng\u1ecdc":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Ng\u1ecdc"},"X\u00e3 Thanh H\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh H\u01b0\u01a1ng"},"X\u00e3 Ng\u1ecdc L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Ng\u1ecdc L\u00e2m"},"X\u00e3 Thanh L\u0129nh":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh L\u0129nh"},"X\u00e3 \u0110\u1ed3ng V\u0103n":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 \u0110\u1ed3ng V\u0103n"},"X\u00e3 Ng\u1ecdc S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Ng\u1ecdc S\u01a1n"},"X\u00e3 Thanh Th\u1ecbnh":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Th\u1ecbnh"},"X\u00e3 Thanh An":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh An"},"X\u00e3 Thanh Chi":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Chi"},"X\u00e3 Xu\u00e2n T\u01b0\u1eddng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Xu\u00e2n T\u01b0\u1eddng"},"X\u00e3 Thanh D\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh D\u01b0\u01a1ng"},"X\u00e3 Thanh L\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh L\u01b0\u01a1ng"},"X\u00e3 Thanh Kh\u00ea":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Kh\u00ea"},"X\u00e3 V\u00f5 Li\u1ec7t":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 V\u00f5 Li\u1ec7t"},"X\u00e3 Thanh Long":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Long"},"X\u00e3 Thanh Th\u1ee7y":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Th\u1ee7y"},"X\u00e3 Thanh Khai":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Khai"},"X\u00e3 Thanh Y\u00ean":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Y\u00ean"},"X\u00e3 Thanh H\u00e0":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh H\u00e0"},"X\u00e3 Thanh Giang":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Giang"},"X\u00e3 Thanh T\u00f9ng":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh T\u00f9ng"},"X\u00e3 Thanh L\u00e2m":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh L\u00e2m"},"X\u00e3 Thanh Mai":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Mai"},"X\u00e3 Thanh Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh Xu\u00e2n"},"X\u00e3 Thanh \u0110\u1ee9c":{"state":"Ngh\u1ec7 An","city":"Thanh Ch\u01b0\u01a1ng","ward":"X\u00e3 Thanh \u0110\u1ee9c"}},"Tp Vinh":{"Ph\u01b0\u1eddng \u0110\u00f4ng V\u0129nh":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng \u0110\u00f4ng V\u0129nh"},"Ph\u01b0\u1eddng H\u00e0 Huy T\u1eadp":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng H\u00e0 Huy T\u1eadp"},"Ph\u01b0\u1eddng L\u00ea L\u1ee3i":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng L\u00ea L\u1ee3i"},"Ph\u01b0\u1eddng Qu\u00e1n B\u00e0u":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng Qu\u00e1n B\u00e0u"},"Ph\u01b0\u1eddng H\u01b0ng B\u00ecnh":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng H\u01b0ng B\u00ecnh"},"Ph\u01b0\u1eddng H\u01b0ng Ph\u00fac":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng H\u01b0ng Ph\u00fac"},"Ph\u01b0\u1eddng H\u01b0ng D\u0169ng":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng H\u01b0ng D\u0169ng"},"Ph\u01b0\u1eddng C\u1eeda Nam":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng C\u1eeda Nam"},"Ph\u01b0\u1eddng Quang Trung":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng Quang Trung"},"Ph\u01b0\u1eddng \u0110\u1ed9i Cung":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng \u0110\u1ed9i Cung"},"Ph\u01b0\u1eddng L\u00ea Mao":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng L\u00ea Mao"},"Ph\u01b0\u1eddng Tr\u01b0\u1eddng Thi":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng Tr\u01b0\u1eddng Thi"},"Ph\u01b0\u1eddng B\u1ebfn Th\u1ee7y":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng B\u1ebfn Th\u1ee7y"},"Ph\u01b0\u1eddng H\u1ed3ng S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng H\u1ed3ng S\u01a1n"},"Ph\u01b0\u1eddng Trung \u0110\u00f4":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng Trung \u0110\u00f4"},"X\u00e3 Nghi Ph\u00fa":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 Nghi Ph\u00fa"},"X\u00e3 H\u01b0ng \u0110\u00f4ng":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 H\u01b0ng \u0110\u00f4ng"},"X\u00e3 H\u01b0ng L\u1ed9c":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 H\u01b0ng L\u1ed9c"},"X\u00e3 H\u01b0ng H\u00f2a":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 H\u01b0ng H\u00f2a"},"Ph\u01b0\u1eddng Vinh T\u00e2n":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"Ph\u01b0\u1eddng Vinh T\u00e2n"},"X\u00e3 Nghi Li\u00ean":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 Nghi Li\u00ean"},"X\u00e3 Nghi \u00c2n":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 Nghi \u00c2n"},"X\u00e3 Nghi Kim":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 Nghi Kim"},"X\u00e3 Nghi \u0110\u1ee9c":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 Nghi \u0110\u1ee9c"},"X\u00e3 H\u01b0ng Ch\u00ednh":{"state":"Ngh\u1ec7 An","city":"Tp Vinh","ward":"X\u00e3 H\u01b0ng Ch\u00ednh"}},"Th\u1ecb x\u00e3 C\u1eeda L\u00f2":{"Ph\u01b0\u1eddng Nghi Thu\u1ef7":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 C\u1eeda L\u00f2","ward":"Ph\u01b0\u1eddng Nghi Thu\u1ef7"},"Ph\u01b0\u1eddng Nghi T\u00e2n":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 C\u1eeda L\u00f2","ward":"Ph\u01b0\u1eddng Nghi T\u00e2n"},"Ph\u01b0\u1eddng Thu Thu\u1ef7":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 C\u1eeda L\u00f2","ward":"Ph\u01b0\u1eddng Thu Thu\u1ef7"},"Ph\u01b0\u1eddng Nghi H\u00f2a":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 C\u1eeda L\u00f2","ward":"Ph\u01b0\u1eddng Nghi H\u00f2a"},"Ph\u01b0\u1eddng Nghi H\u1ea3i":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 C\u1eeda L\u00f2","ward":"Ph\u01b0\u1eddng Nghi H\u1ea3i"},"Ph\u01b0\u1eddng Nghi H\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 C\u1eeda L\u00f2","ward":"Ph\u01b0\u1eddng Nghi H\u01b0\u01a1ng"},"Ph\u01b0\u1eddng Nghi Thu":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 C\u1eeda L\u00f2","ward":"Ph\u01b0\u1eddng Nghi Thu"}},"Th\u1ecb x\u00e3 Ho\u00e0ng Mai":{"X\u00e3 Qu\u1ef3nh Vinh":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"X\u00e3 Qu\u1ef3nh Vinh"},"X\u00e3 Qu\u1ef3nh L\u1ed9c":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"X\u00e3 Qu\u1ef3nh L\u1ed9c"},"Ph\u01b0\u1eddng Qu\u1ef3nh Thi\u1ec7n":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"Ph\u01b0\u1eddng Qu\u1ef3nh Thi\u1ec7n"},"X\u00e3 Qu\u1ef3nh L\u1eadp":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"X\u00e3 Qu\u1ef3nh L\u1eadp"},"X\u00e3 Qu\u1ef3nh Trang":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"X\u00e3 Qu\u1ef3nh Trang"},"Ph\u01b0\u1eddng Mai H\u00f9ng":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"Ph\u01b0\u1eddng Mai H\u00f9ng"},"Ph\u01b0\u1eddng Qu\u1ef3nh D\u1ecb":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"Ph\u01b0\u1eddng Qu\u1ef3nh D\u1ecb"},"Ph\u01b0\u1eddng Qu\u1ef3nh Xu\u00e2n":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"Ph\u01b0\u1eddng Qu\u1ef3nh Xu\u00e2n"},"Ph\u01b0\u1eddng Qu\u1ef3nh Ph\u01b0\u01a1ng":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"Ph\u01b0\u1eddng Qu\u1ef3nh Ph\u01b0\u01a1ng"},"X\u00e3 Qu\u1ef3nh Li\u00ean":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Ho\u00e0ng Mai","ward":"X\u00e3 Qu\u1ef3nh Li\u00ean"}},"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0":{"Ph\u01b0\u1eddng Ho\u00e0 Hi\u1ebfu":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"Ph\u01b0\u1eddng Ho\u00e0 Hi\u1ebfu"},"Ph\u01b0\u1eddng Quang Phong":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"Ph\u01b0\u1eddng Quang Phong"},"Ph\u01b0\u1eddng Quang Ti\u1ebfn":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"Ph\u01b0\u1eddng Quang Ti\u1ebfn"},"Ph\u01b0\u1eddng Long S\u01a1n":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"Ph\u01b0\u1eddng Long S\u01a1n"},"X\u00e3 Ngh\u0129a Ti\u1ebfn":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"X\u00e3 Ngh\u0129a Ti\u1ebfn"},"X\u00e3 Ngh\u0129a M\u1ef9":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"X\u00e3 Ngh\u0129a M\u1ef9"},"X\u00e3 T\u00e2y Hi\u1ebfu":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"X\u00e3 T\u00e2y Hi\u1ebfu"},"X\u00e3 Ngh\u0129a Thu\u1eadn":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"X\u00e3 Ngh\u0129a Thu\u1eadn"},"X\u00e3 \u0110\u00f4ng Hi\u1ebfu":{"state":"Ngh\u1ec7 An","city":"Th\u1ecb x\u00e3 Th\u00e1i Ho\u00e0","ward":"X\u00e3 \u0110\u00f4ng Hi\u1ebfu"}},"T\u01b0\u01a1ng D\u01b0\u01a1ng":{"Th\u1ecb tr\u1ea5n Th\u1ea1ch Gi\u00e1m":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"Th\u1ecb tr\u1ea5n Th\u1ea1ch Gi\u00e1m"},"X\u00e3 Mai S\u01a1n":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Mai S\u01a1n"},"X\u00e3 Nh\u00f4n Mai":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Nh\u00f4n Mai"},"X\u00e3 H\u1eefu Khu\u00f4ng":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 H\u1eefu Khu\u00f4ng"},"X\u00e3 Y\u00ean T\u0129nh":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Y\u00ean T\u0129nh"},"X\u00e3 Nga My":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Nga My"},"X\u00e3 Xi\u00eang My":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Xi\u00eang My"},"X\u00e3 L\u01b0\u1ee1ng Minh":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 L\u01b0\u1ee1ng Minh"},"X\u00e3 Y\u00ean H\u00f2a":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Y\u00ean H\u00f2a"},"X\u00e3 Y\u00ean Na":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Y\u00ean Na"},"X\u00e3 L\u01b0u Ki\u1ec1n":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 L\u01b0u Ki\u1ec1n"},"X\u00e3 X\u00e1 L\u01b0\u1ee3ng":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 X\u00e1 L\u01b0\u1ee3ng"},"X\u00e3 Tam Th\u00e1i":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Tam Th\u00e1i"},"X\u00e3 Tam \u0110\u00ecnh":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Tam \u0110\u00ecnh"},"X\u00e3 Y\u00ean Th\u1eafng":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Y\u00ean Th\u1eafng"},"X\u00e3 Tam Quang":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Tam Quang"},"X\u00e3 Tam H\u1ee3p":{"state":"Ngh\u1ec7 An","city":"T\u01b0\u01a1ng D\u01b0\u01a1ng","ward":"X\u00e3 Tam H\u1ee3p"}},"Y\u00ean Th\u00e0nh":{"Th\u1ecb tr\u1ea5n Y\u00ean Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"Th\u1ecb tr\u1ea5n Y\u00ean Th\u00e0nh"},"X\u00e3 M\u00e3 Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 M\u00e3 Th\u00e0nh"},"X\u00e3 Ti\u1ebfn Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Ti\u1ebfn Th\u00e0nh"},"X\u00e3 L\u0103ng Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 L\u0103ng Th\u00e0nh"},"X\u00e3 T\u00e2n Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 T\u00e2n Th\u00e0nh"},"X\u00e3 \u0110\u1ee9c Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 \u0110\u1ee9c Th\u00e0nh"},"X\u00e3 Kim Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Kim Th\u00e0nh"},"X\u00e3 H\u1eadu Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 H\u1eadu Th\u00e0nh"},"X\u00e3 H\u00f9ng Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 H\u00f9ng Th\u00e0nh"},"X\u00e3 \u0110\u00f4 Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 \u0110\u00f4 Th\u00e0nh"},"X\u00e3 Th\u1ecd Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Th\u1ecd Th\u00e0nh"},"X\u00e3 Quang Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Quang Th\u00e0nh"},"X\u00e3 T\u00e2y Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 T\u00e2y Th\u00e0nh"},"X\u00e3 Ph\u00fac Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Ph\u00fac Th\u00e0nh"},"X\u00e3 H\u1ed3ng Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 H\u1ed3ng Th\u00e0nh"},"X\u00e3 \u0110\u1ed3ng Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 \u0110\u1ed3ng Th\u00e0nh"},"X\u00e3 Ph\u00fa Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Ph\u00fa Th\u00e0nh"},"X\u00e3 Hoa Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Hoa Th\u00e0nh"},"X\u00e3 T\u0103ng Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 T\u0103ng Th\u00e0nh"},"X\u00e3 V\u0103n Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 V\u0103n Th\u00e0nh"},"X\u00e3 Th\u1ecbnh Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Th\u1ecbnh Th\u00e0nh"},"X\u00e3 H\u1ee3p Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 H\u1ee3p Th\u00e0nh"},"X\u00e3 Xu\u00e2n Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Xu\u00e2n Th\u00e0nh"},"X\u00e3 B\u1eafc Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 B\u1eafc Th\u00e0nh"},"X\u00e3 Nh\u00e2n Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Nh\u00e2n Th\u00e0nh"},"X\u00e3 Trung Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Trung Th\u00e0nh"},"X\u00e3 Long Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Long Th\u00e0nh"},"X\u00e3 Minh Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Minh Th\u00e0nh"},"X\u00e3 Nam Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Nam Th\u00e0nh"},"X\u00e3 V\u0129nh Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 V\u0129nh Th\u00e0nh"},"X\u00e3 L\u00fd Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 L\u00fd Th\u00e0nh"},"X\u00e3 Kh\u00e1nh Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Kh\u00e1nh Th\u00e0nh"},"X\u00e3 Vi\u00ean Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Vi\u00ean Th\u00e0nh"},"X\u00e3 \u0110\u1ea1i Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 \u0110\u1ea1i Th\u00e0nh"},"X\u00e3 Li\u00ean Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 Li\u00ean Th\u00e0nh"},"X\u00e3 B\u1ea3o Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 B\u1ea3o Th\u00e0nh"},"X\u00e3 M\u1ef9 Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 M\u1ef9 Th\u00e0nh"},"X\u00e3 C\u00f4ng Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 C\u00f4ng Th\u00e0nh"},"X\u00e3 S\u01a1n Th\u00e0nh":{"state":"Ngh\u1ec7 An","city":"Y\u00ean Th\u00e0nh","ward":"X\u00e3 S\u01a1n Th\u00e0nh"}}}
+{
+    "Phường Cửa Lò": {
+        "Phường Cửa Lò": {
+            "state": "Nghệ An",
+            "city": "Phường Cửa Lò",
+            "ward": "Phường Cửa Lò"
+        }
+    },
+    "Phường Hoàng Mai": {
+        "Phường Hoàng Mai": {
+            "state": "Nghệ An",
+            "city": "Phường Hoàng Mai",
+            "ward": "Phường Hoàng Mai"
+        }
+    },
+    "Phường Quỳnh Mai": {
+        "Phường Quỳnh Mai": {
+            "state": "Nghệ An",
+            "city": "Phường Quỳnh Mai",
+            "ward": "Phường Quỳnh Mai"
+        }
+    },
+    "Phường Thành Vinh": {
+        "Phường Thành Vinh": {
+            "state": "Nghệ An",
+            "city": "Phường Thành Vinh",
+            "ward": "Phường Thành Vinh"
+        }
+    },
+    "Phường Thái Hòa": {
+        "Phường Thái Hòa": {
+            "state": "Nghệ An",
+            "city": "Phường Thái Hòa",
+            "ward": "Phường Thái Hòa"
+        }
+    },
+    "Phường Trường Vinh": {
+        "Phường Trường Vinh": {
+            "state": "Nghệ An",
+            "city": "Phường Trường Vinh",
+            "ward": "Phường Trường Vinh"
+        }
+    },
+    "Phường Tân Mai": {
+        "Phường Tân Mai": {
+            "state": "Nghệ An",
+            "city": "Phường Tân Mai",
+            "ward": "Phường Tân Mai"
+        }
+    },
+    "Phường Tây Hiếu": {
+        "Phường Tây Hiếu": {
+            "state": "Nghệ An",
+            "city": "Phường Tây Hiếu",
+            "ward": "Phường Tây Hiếu"
+        }
+    },
+    "Phường Vinh Hưng": {
+        "Phường Vinh Hưng": {
+            "state": "Nghệ An",
+            "city": "Phường Vinh Hưng",
+            "ward": "Phường Vinh Hưng"
+        }
+    },
+    "Phường Vinh Lộc": {
+        "Phường Vinh Lộc": {
+            "state": "Nghệ An",
+            "city": "Phường Vinh Lộc",
+            "ward": "Phường Vinh Lộc"
+        }
+    },
+    "Phường Vinh Phú": {
+        "Phường Vinh Phú": {
+            "state": "Nghệ An",
+            "city": "Phường Vinh Phú",
+            "ward": "Phường Vinh Phú"
+        }
+    },
+    "Xã An Châu": {
+        "Xã An Châu": {
+            "state": "Nghệ An",
+            "city": "Xã An Châu",
+            "ward": "Xã An Châu"
+        }
+    },
+    "Xã Anh Sơn": {
+        "Xã Anh Sơn": {
+            "state": "Nghệ An",
+            "city": "Xã Anh Sơn",
+            "ward": "Xã Anh Sơn"
+        }
+    },
+    "Xã Anh Sơn Đông": {
+        "Xã Anh Sơn Đông": {
+            "state": "Nghệ An",
+            "city": "Xã Anh Sơn Đông",
+            "ward": "Xã Anh Sơn Đông"
+        }
+    },
+    "Xã Bình Chuẩn": {
+        "Xã Bình Chuẩn": {
+            "state": "Nghệ An",
+            "city": "Xã Bình Chuẩn",
+            "ward": "Xã Bình Chuẩn"
+        }
+    },
+    "Xã Bình Minh": {
+        "Xã Bình Minh": {
+            "state": "Nghệ An",
+            "city": "Xã Bình Minh",
+            "ward": "Xã Bình Minh"
+        }
+    },
+    "Xã Bích Hào": {
+        "Xã Bích Hào": {
+            "state": "Nghệ An",
+            "city": "Xã Bích Hào",
+            "ward": "Xã Bích Hào"
+        }
+    },
+    "Xã Bạch Hà": {
+        "Xã Bạch Hà": {
+            "state": "Nghệ An",
+            "city": "Xã Bạch Hà",
+            "ward": "Xã Bạch Hà"
+        }
+    },
+    "Xã Bạch Ngọc": {
+        "Xã Bạch Ngọc": {
+            "state": "Nghệ An",
+            "city": "Xã Bạch Ngọc",
+            "ward": "Xã Bạch Ngọc"
+        }
+    },
+    "Xã Bắc Lý": {
+        "Xã Bắc Lý": {
+            "state": "Nghệ An",
+            "city": "Xã Bắc Lý",
+            "ward": "Xã Bắc Lý"
+        }
+    },
+    "Xã Cam Phục": {
+        "Xã Cam Phục": {
+            "state": "Nghệ An",
+            "city": "Xã Cam Phục",
+            "ward": "Xã Cam Phục"
+        }
+    },
+    "Xã Chiêu Lưu": {
+        "Xã Chiêu Lưu": {
+            "state": "Nghệ An",
+            "city": "Xã Chiêu Lưu",
+            "ward": "Xã Chiêu Lưu"
+        }
+    },
+    "Xã Châu Bình": {
+        "Xã Châu Bình": {
+            "state": "Nghệ An",
+            "city": "Xã Châu Bình",
+            "ward": "Xã Châu Bình"
+        }
+    },
+    "Xã Châu Hồng": {
+        "Xã Châu Hồng": {
+            "state": "Nghệ An",
+            "city": "Xã Châu Hồng",
+            "ward": "Xã Châu Hồng"
+        }
+    },
+    "Xã Châu Khê": {
+        "Xã Châu Khê": {
+            "state": "Nghệ An",
+            "city": "Xã Châu Khê",
+            "ward": "Xã Châu Khê"
+        }
+    },
+    "Xã Châu Lộc": {
+        "Xã Châu Lộc": {
+            "state": "Nghệ An",
+            "city": "Xã Châu Lộc",
+            "ward": "Xã Châu Lộc"
+        }
+    },
+    "Xã Châu Tiến": {
+        "Xã Châu Tiến": {
+            "state": "Nghệ An",
+            "city": "Xã Châu Tiến",
+            "ward": "Xã Châu Tiến"
+        }
+    },
+    "Xã Con Cuông": {
+        "Xã Con Cuông": {
+            "state": "Nghệ An",
+            "city": "Xã Con Cuông",
+            "ward": "Xã Con Cuông"
+        }
+    },
+    "Xã Cát Ngạn": {
+        "Xã Cát Ngạn": {
+            "state": "Nghệ An",
+            "city": "Xã Cát Ngạn",
+            "ward": "Xã Cát Ngạn"
+        }
+    },
+    "Xã Diễn Châu": {
+        "Xã Diễn Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Diễn Châu",
+            "ward": "Xã Diễn Châu"
+        }
+    },
+    "Xã Giai Lạc": {
+        "Xã Giai Lạc": {
+            "state": "Nghệ An",
+            "city": "Xã Giai Lạc",
+            "ward": "Xã Giai Lạc"
+        }
+    },
+    "Xã Giai Xuân": {
+        "Xã Giai Xuân": {
+            "state": "Nghệ An",
+            "city": "Xã Giai Xuân",
+            "ward": "Xã Giai Xuân"
+        }
+    },
+    "Xã Hoa Quân": {
+        "Xã Hoa Quân": {
+            "state": "Nghệ An",
+            "city": "Xã Hoa Quân",
+            "ward": "Xã Hoa Quân"
+        }
+    },
+    "Xã Huồi Tụ": {
+        "Xã Huồi Tụ": {
+            "state": "Nghệ An",
+            "city": "Xã Huồi Tụ",
+            "ward": "Xã Huồi Tụ"
+        }
+    },
+    "Xã Hùng Chân": {
+        "Xã Hùng Chân": {
+            "state": "Nghệ An",
+            "city": "Xã Hùng Chân",
+            "ward": "Xã Hùng Chân"
+        }
+    },
+    "Xã Hùng Châu": {
+        "Xã Hùng Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Hùng Châu",
+            "ward": "Xã Hùng Châu"
+        }
+    },
+    "Xã Hưng Nguyên": {
+        "Xã Hưng Nguyên": {
+            "state": "Nghệ An",
+            "city": "Xã Hưng Nguyên",
+            "ward": "Xã Hưng Nguyên"
+        }
+    },
+    "Xã Hưng Nguyên Nam": {
+        "Xã Hưng Nguyên Nam": {
+            "state": "Nghệ An",
+            "city": "Xã Hưng Nguyên Nam",
+            "ward": "Xã Hưng Nguyên Nam"
+        }
+    },
+    "Xã Hạnh Lâm": {
+        "Xã Hạnh Lâm": {
+            "state": "Nghệ An",
+            "city": "Xã Hạnh Lâm",
+            "ward": "Xã Hạnh Lâm"
+        }
+    },
+    "Xã Hải Châu": {
+        "Xã Hải Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Hải Châu",
+            "ward": "Xã Hải Châu"
+        }
+    },
+    "Xã Hải Lộc": {
+        "Xã Hải Lộc": {
+            "state": "Nghệ An",
+            "city": "Xã Hải Lộc",
+            "ward": "Xã Hải Lộc"
+        }
+    },
+    "Xã Hợp Minh": {
+        "Xã Hợp Minh": {
+            "state": "Nghệ An",
+            "city": "Xã Hợp Minh",
+            "ward": "Xã Hợp Minh"
+        }
+    },
+    "Xã Hữu Khuông": {
+        "Xã Hữu Khuông": {
+            "state": "Nghệ An",
+            "city": "Xã Hữu Khuông",
+            "ward": "Xã Hữu Khuông"
+        }
+    },
+    "Xã Hữu Kiệm": {
+        "Xã Hữu Kiệm": {
+            "state": "Nghệ An",
+            "city": "Xã Hữu Kiệm",
+            "ward": "Xã Hữu Kiệm"
+        }
+    },
+    "Xã Keng Đu": {
+        "Xã Keng Đu": {
+            "state": "Nghệ An",
+            "city": "Xã Keng Đu",
+            "ward": "Xã Keng Đu"
+        }
+    },
+    "Xã Kim Bảng": {
+        "Xã Kim Bảng": {
+            "state": "Nghệ An",
+            "city": "Xã Kim Bảng",
+            "ward": "Xã Kim Bảng"
+        }
+    },
+    "Xã Kim Liên": {
+        "Xã Kim Liên": {
+            "state": "Nghệ An",
+            "city": "Xã Kim Liên",
+            "ward": "Xã Kim Liên"
+        }
+    },
+    "Xã Lam Thành": {
+        "Xã Lam Thành": {
+            "state": "Nghệ An",
+            "city": "Xã Lam Thành",
+            "ward": "Xã Lam Thành"
+        }
+    },
+    "Xã Lương Sơn": {
+        "Xã Lương Sơn": {
+            "state": "Nghệ An",
+            "city": "Xã Lương Sơn",
+            "ward": "Xã Lương Sơn"
+        }
+    },
+    "Xã Lượng Minh": {
+        "Xã Lượng Minh": {
+            "state": "Nghệ An",
+            "city": "Xã Lượng Minh",
+            "ward": "Xã Lượng Minh"
+        }
+    },
+    "Xã Minh Châu": {
+        "Xã Minh Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Minh Châu",
+            "ward": "Xã Minh Châu"
+        }
+    },
+    "Xã Minh Hợp": {
+        "Xã Minh Hợp": {
+            "state": "Nghệ An",
+            "city": "Xã Minh Hợp",
+            "ward": "Xã Minh Hợp"
+        }
+    },
+    "Xã Môn Sơn": {
+        "Xã Môn Sơn": {
+            "state": "Nghệ An",
+            "city": "Xã Môn Sơn",
+            "ward": "Xã Môn Sơn"
+        }
+    },
+    "Xã Mường Chọng": {
+        "Xã Mường Chọng": {
+            "state": "Nghệ An",
+            "city": "Xã Mường Chọng",
+            "ward": "Xã Mường Chọng"
+        }
+    },
+    "Xã Mường Ham": {
+        "Xã Mường Ham": {
+            "state": "Nghệ An",
+            "city": "Xã Mường Ham",
+            "ward": "Xã Mường Ham"
+        }
+    },
+    "Xã Mường Lống": {
+        "Xã Mường Lống": {
+            "state": "Nghệ An",
+            "city": "Xã Mường Lống",
+            "ward": "Xã Mường Lống"
+        }
+    },
+    "Xã Mường Quàng": {
+        "Xã Mường Quàng": {
+            "state": "Nghệ An",
+            "city": "Xã Mường Quàng",
+            "ward": "Xã Mường Quàng"
+        }
+    },
+    "Xã Mường Típ": {
+        "Xã Mường Típ": {
+            "state": "Nghệ An",
+            "city": "Xã Mường Típ",
+            "ward": "Xã Mường Típ"
+        }
+    },
+    "Xã Mường Xén": {
+        "Xã Mường Xén": {
+            "state": "Nghệ An",
+            "city": "Xã Mường Xén",
+            "ward": "Xã Mường Xén"
+        }
+    },
+    "Xã Mậu Thạch": {
+        "Xã Mậu Thạch": {
+            "state": "Nghệ An",
+            "city": "Xã Mậu Thạch",
+            "ward": "Xã Mậu Thạch"
+        }
+    },
+    "Xã Mỹ Lý": {
+        "Xã Mỹ Lý": {
+            "state": "Nghệ An",
+            "city": "Xã Mỹ Lý",
+            "ward": "Xã Mỹ Lý"
+        }
+    },
+    "Xã Na Loi": {
+        "Xã Na Loi": {
+            "state": "Nghệ An",
+            "city": "Xã Na Loi",
+            "ward": "Xã Na Loi"
+        }
+    },
+    "Xã Na Ngoi": {
+        "Xã Na Ngoi": {
+            "state": "Nghệ An",
+            "city": "Xã Na Ngoi",
+            "ward": "Xã Na Ngoi"
+        }
+    },
+    "Xã Nam Đàn": {
+        "Xã Nam Đàn": {
+            "state": "Nghệ An",
+            "city": "Xã Nam Đàn",
+            "ward": "Xã Nam Đàn"
+        }
+    },
+    "Xã Nga My": {
+        "Xã Nga My": {
+            "state": "Nghệ An",
+            "city": "Xã Nga My",
+            "ward": "Xã Nga My"
+        }
+    },
+    "Xã Nghi Lộc": {
+        "Xã Nghi Lộc": {
+            "state": "Nghệ An",
+            "city": "Xã Nghi Lộc",
+            "ward": "Xã Nghi Lộc"
+        }
+    },
+    "Xã Nghĩa Hành": {
+        "Xã Nghĩa Hành": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Hành",
+            "ward": "Xã Nghĩa Hành"
+        }
+    },
+    "Xã Nghĩa Hưng": {
+        "Xã Nghĩa Hưng": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Hưng",
+            "ward": "Xã Nghĩa Hưng"
+        }
+    },
+    "Xã Nghĩa Khánh": {
+        "Xã Nghĩa Khánh": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Khánh",
+            "ward": "Xã Nghĩa Khánh"
+        }
+    },
+    "Xã Nghĩa Lâm": {
+        "Xã Nghĩa Lâm": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Lâm",
+            "ward": "Xã Nghĩa Lâm"
+        }
+    },
+    "Xã Nghĩa Lộc": {
+        "Xã Nghĩa Lộc": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Lộc",
+            "ward": "Xã Nghĩa Lộc"
+        }
+    },
+    "Xã Nghĩa Mai": {
+        "Xã Nghĩa Mai": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Mai",
+            "ward": "Xã Nghĩa Mai"
+        }
+    },
+    "Xã Nghĩa Thọ": {
+        "Xã Nghĩa Thọ": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Thọ",
+            "ward": "Xã Nghĩa Thọ"
+        }
+    },
+    "Xã Nghĩa Đàn": {
+        "Xã Nghĩa Đàn": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Đàn",
+            "ward": "Xã Nghĩa Đàn"
+        }
+    },
+    "Xã Nghĩa Đồng": {
+        "Xã Nghĩa Đồng": {
+            "state": "Nghệ An",
+            "city": "Xã Nghĩa Đồng",
+            "ward": "Xã Nghĩa Đồng"
+        }
+    },
+    "Xã Nhân Hòa": {
+        "Xã Nhân Hòa": {
+            "state": "Nghệ An",
+            "city": "Xã Nhân Hòa",
+            "ward": "Xã Nhân Hòa"
+        }
+    },
+    "Xã Nhôn Mai": {
+        "Xã Nhôn Mai": {
+            "state": "Nghệ An",
+            "city": "Xã Nhôn Mai",
+            "ward": "Xã Nhôn Mai"
+        }
+    },
+    "Xã Nậm Cắn": {
+        "Xã Nậm Cắn": {
+            "state": "Nghệ An",
+            "city": "Xã Nậm Cắn",
+            "ward": "Xã Nậm Cắn"
+        }
+    },
+    "Xã Phúc Lộc": {
+        "Xã Phúc Lộc": {
+            "state": "Nghệ An",
+            "city": "Xã Phúc Lộc",
+            "ward": "Xã Phúc Lộc"
+        }
+    },
+    "Xã Quan Thành": {
+        "Xã Quan Thành": {
+            "state": "Nghệ An",
+            "city": "Xã Quan Thành",
+            "ward": "Xã Quan Thành"
+        }
+    },
+    "Xã Quang Đồng": {
+        "Xã Quang Đồng": {
+            "state": "Nghệ An",
+            "city": "Xã Quang Đồng",
+            "ward": "Xã Quang Đồng"
+        }
+    },
+    "Xã Quảng Châu": {
+        "Xã Quảng Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Quảng Châu",
+            "ward": "Xã Quảng Châu"
+        }
+    },
+    "Xã Quế Phong": {
+        "Xã Quế Phong": {
+            "state": "Nghệ An",
+            "city": "Xã Quế Phong",
+            "ward": "Xã Quế Phong"
+        }
+    },
+    "Xã Quỳ Châu": {
+        "Xã Quỳ Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳ Châu",
+            "ward": "Xã Quỳ Châu"
+        }
+    },
+    "Xã Quỳ Hợp": {
+        "Xã Quỳ Hợp": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳ Hợp",
+            "ward": "Xã Quỳ Hợp"
+        }
+    },
+    "Xã Quỳnh Anh": {
+        "Xã Quỳnh Anh": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳnh Anh",
+            "ward": "Xã Quỳnh Anh"
+        }
+    },
+    "Xã Quỳnh Lưu": {
+        "Xã Quỳnh Lưu": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳnh Lưu",
+            "ward": "Xã Quỳnh Lưu"
+        }
+    },
+    "Xã Quỳnh Phú": {
+        "Xã Quỳnh Phú": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳnh Phú",
+            "ward": "Xã Quỳnh Phú"
+        }
+    },
+    "Xã Quỳnh Sơn": {
+        "Xã Quỳnh Sơn": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳnh Sơn",
+            "ward": "Xã Quỳnh Sơn"
+        }
+    },
+    "Xã Quỳnh Tam": {
+        "Xã Quỳnh Tam": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳnh Tam",
+            "ward": "Xã Quỳnh Tam"
+        }
+    },
+    "Xã Quỳnh Thắng": {
+        "Xã Quỳnh Thắng": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳnh Thắng",
+            "ward": "Xã Quỳnh Thắng"
+        }
+    },
+    "Xã Quỳnh Văn": {
+        "Xã Quỳnh Văn": {
+            "state": "Nghệ An",
+            "city": "Xã Quỳnh Văn",
+            "ward": "Xã Quỳnh Văn"
+        }
+    },
+    "Xã Sơn Lâm": {
+        "Xã Sơn Lâm": {
+            "state": "Nghệ An",
+            "city": "Xã Sơn Lâm",
+            "ward": "Xã Sơn Lâm"
+        }
+    },
+    "Xã Tam Hợp": {
+        "Xã Tam Hợp": {
+            "state": "Nghệ An",
+            "city": "Xã Tam Hợp",
+            "ward": "Xã Tam Hợp"
+        }
+    },
+    "Xã Tam Quang": {
+        "Xã Tam Quang": {
+            "state": "Nghệ An",
+            "city": "Xã Tam Quang",
+            "ward": "Xã Tam Quang"
+        }
+    },
+    "Xã Tam Thái": {
+        "Xã Tam Thái": {
+            "state": "Nghệ An",
+            "city": "Xã Tam Thái",
+            "ward": "Xã Tam Thái"
+        }
+    },
+    "Xã Tam Đồng": {
+        "Xã Tam Đồng": {
+            "state": "Nghệ An",
+            "city": "Xã Tam Đồng",
+            "ward": "Xã Tam Đồng"
+        }
+    },
+    "Xã Thiên Nhẫn": {
+        "Xã Thiên Nhẫn": {
+            "state": "Nghệ An",
+            "city": "Xã Thiên Nhẫn",
+            "ward": "Xã Thiên Nhẫn"
+        }
+    },
+    "Xã Thuần Trung": {
+        "Xã Thuần Trung": {
+            "state": "Nghệ An",
+            "city": "Xã Thuần Trung",
+            "ward": "Xã Thuần Trung"
+        }
+    },
+    "Xã Thành Bình Thọ": {
+        "Xã Thành Bình Thọ": {
+            "state": "Nghệ An",
+            "city": "Xã Thành Bình Thọ",
+            "ward": "Xã Thành Bình Thọ"
+        }
+    },
+    "Xã Thông Thụ": {
+        "Xã Thông Thụ": {
+            "state": "Nghệ An",
+            "city": "Xã Thông Thụ",
+            "ward": "Xã Thông Thụ"
+        }
+    },
+    "Xã Thần Lĩnh": {
+        "Xã Thần Lĩnh": {
+            "state": "Nghệ An",
+            "city": "Xã Thần Lĩnh",
+            "ward": "Xã Thần Lĩnh"
+        }
+    },
+    "Xã Tiên Đồng": {
+        "Xã Tiên Đồng": {
+            "state": "Nghệ An",
+            "city": "Xã Tiên Đồng",
+            "ward": "Xã Tiên Đồng"
+        }
+    },
+    "Xã Tiền Phong": {
+        "Xã Tiền Phong": {
+            "state": "Nghệ An",
+            "city": "Xã Tiền Phong",
+            "ward": "Xã Tiền Phong"
+        }
+    },
+    "Xã Tri Lễ": {
+        "Xã Tri Lễ": {
+            "state": "Nghệ An",
+            "city": "Xã Tri Lễ",
+            "ward": "Xã Tri Lễ"
+        }
+    },
+    "Xã Trung Lộc": {
+        "Xã Trung Lộc": {
+            "state": "Nghệ An",
+            "city": "Xã Trung Lộc",
+            "ward": "Xã Trung Lộc"
+        }
+    },
+    "Xã Tân An": {
+        "Xã Tân An": {
+            "state": "Nghệ An",
+            "city": "Xã Tân An",
+            "ward": "Xã Tân An"
+        }
+    },
+    "Xã Tân Châu": {
+        "Xã Tân Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Tân Châu",
+            "ward": "Xã Tân Châu"
+        }
+    },
+    "Xã Tân Kỳ": {
+        "Xã Tân Kỳ": {
+            "state": "Nghệ An",
+            "city": "Xã Tân Kỳ",
+            "ward": "Xã Tân Kỳ"
+        }
+    },
+    "Xã Tân Phú": {
+        "Xã Tân Phú": {
+            "state": "Nghệ An",
+            "city": "Xã Tân Phú",
+            "ward": "Xã Tân Phú"
+        }
+    },
+    "Xã Tương Dương": {
+        "Xã Tương Dương": {
+            "state": "Nghệ An",
+            "city": "Xã Tương Dương",
+            "ward": "Xã Tương Dương"
+        }
+    },
+    "Xã Vân Du": {
+        "Xã Vân Du": {
+            "state": "Nghệ An",
+            "city": "Xã Vân Du",
+            "ward": "Xã Vân Du"
+        }
+    },
+    "Xã Vân Tụ": {
+        "Xã Vân Tụ": {
+            "state": "Nghệ An",
+            "city": "Xã Vân Tụ",
+            "ward": "Xã Vân Tụ"
+        }
+    },
+    "Xã Văn Hiến": {
+        "Xã Văn Hiến": {
+            "state": "Nghệ An",
+            "city": "Xã Văn Hiến",
+            "ward": "Xã Văn Hiến"
+        }
+    },
+    "Xã Văn Kiều": {
+        "Xã Văn Kiều": {
+            "state": "Nghệ An",
+            "city": "Xã Văn Kiều",
+            "ward": "Xã Văn Kiều"
+        }
+    },
+    "Xã Vĩnh Tường": {
+        "Xã Vĩnh Tường": {
+            "state": "Nghệ An",
+            "city": "Xã Vĩnh Tường",
+            "ward": "Xã Vĩnh Tường"
+        }
+    },
+    "Xã Vạn An": {
+        "Xã Vạn An": {
+            "state": "Nghệ An",
+            "city": "Xã Vạn An",
+            "ward": "Xã Vạn An"
+        }
+    },
+    "Xã Xuân Lâm": {
+        "Xã Xuân Lâm": {
+            "state": "Nghệ An",
+            "city": "Xã Xuân Lâm",
+            "ward": "Xã Xuân Lâm"
+        }
+    },
+    "Xã Yên Hòa": {
+        "Xã Yên Hòa": {
+            "state": "Nghệ An",
+            "city": "Xã Yên Hòa",
+            "ward": "Xã Yên Hòa"
+        }
+    },
+    "Xã Yên Na": {
+        "Xã Yên Na": {
+            "state": "Nghệ An",
+            "city": "Xã Yên Na",
+            "ward": "Xã Yên Na"
+        }
+    },
+    "Xã Yên Thành": {
+        "Xã Yên Thành": {
+            "state": "Nghệ An",
+            "city": "Xã Yên Thành",
+            "ward": "Xã Yên Thành"
+        }
+    },
+    "Xã Yên Trung": {
+        "Xã Yên Trung": {
+            "state": "Nghệ An",
+            "city": "Xã Yên Trung",
+            "ward": "Xã Yên Trung"
+        }
+    },
+    "Xã Yên Xuân": {
+        "Xã Yên Xuân": {
+            "state": "Nghệ An",
+            "city": "Xã Yên Xuân",
+            "ward": "Xã Yên Xuân"
+        }
+    },
+    "Xã Đô Lương": {
+        "Xã Đô Lương": {
+            "state": "Nghệ An",
+            "city": "Xã Đô Lương",
+            "ward": "Xã Đô Lương"
+        }
+    },
+    "Xã Đông Hiếu": {
+        "Xã Đông Hiếu": {
+            "state": "Nghệ An",
+            "city": "Xã Đông Hiếu",
+            "ward": "Xã Đông Hiếu"
+        }
+    },
+    "Xã Đông Lộc": {
+        "Xã Đông Lộc": {
+            "state": "Nghệ An",
+            "city": "Xã Đông Lộc",
+            "ward": "Xã Đông Lộc"
+        }
+    },
+    "Xã Đông Thành": {
+        "Xã Đông Thành": {
+            "state": "Nghệ An",
+            "city": "Xã Đông Thành",
+            "ward": "Xã Đông Thành"
+        }
+    },
+    "Xã Đại Huệ": {
+        "Xã Đại Huệ": {
+            "state": "Nghệ An",
+            "city": "Xã Đại Huệ",
+            "ward": "Xã Đại Huệ"
+        }
+    },
+    "Xã Đại Đồng": {
+        "Xã Đại Đồng": {
+            "state": "Nghệ An",
+            "city": "Xã Đại Đồng",
+            "ward": "Xã Đại Đồng"
+        }
+    },
+    "Xã Đức Châu": {
+        "Xã Đức Châu": {
+            "state": "Nghệ An",
+            "city": "Xã Đức Châu",
+            "ward": "Xã Đức Châu"
+        }
+    }
+}

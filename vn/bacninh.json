@@ -1,1 +1,695 @@
-{"Gia B\u00ecnh":{"Th\u1ecb tr\u1ea5n Gia B\u00ecnh":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"Th\u1ecb tr\u1ea5n Gia B\u00ecnh"},"X\u00e3 V\u1ea1n Ninh":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 V\u1ea1n Ninh"},"X\u00e3 Th\u00e1i B\u1ea3o":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 Th\u00e1i B\u1ea3o"},"X\u00e3 Giang S\u01a1n":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 Giang S\u01a1n"},"X\u00e3 Cao \u0110\u1ee9c":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 Cao \u0110\u1ee9c"},"X\u00e3 \u0110\u1ea1i Lai":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 \u0110\u1ea1i Lai"},"X\u00e3 Song Giang":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 Song Giang"},"X\u00e3 B\u00ecnh D\u01b0\u01a1ng":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 B\u00ecnh D\u01b0\u01a1ng"},"X\u00e3 L\u00e3ng Ng\u00e2m":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 L\u00e3ng Ng\u00e2m"},"X\u00e3 Nh\u00e2n Th\u1eafng":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 Nh\u00e2n Th\u1eafng"},"X\u00e3 Xu\u00e2n Lai":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 Xu\u00e2n Lai"},"X\u00e3 \u0110\u00f4ng C\u1ee9u":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 \u0110\u00f4ng C\u1ee9u"},"X\u00e3 \u0110\u1ea1i B\u00e1i":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 \u0110\u1ea1i B\u00e1i"},"X\u00e3 Qu\u1ef3nh Ph\u00fa":{"state":"B\u1eafc Ninh","city":"Gia B\u00ecnh","ward":"X\u00e3 Qu\u1ef3nh Ph\u00fa"}},"L\u01b0\u01a1ng T\u00e0i":{"Th\u1ecb tr\u1ea5n Th\u1ee9a":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"Th\u1ecb tr\u1ea5n Th\u1ee9a"},"X\u00e3 An Th\u1ecbnh":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 An Th\u1ecbnh"},"X\u00e3 Trung K\u00eanh":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Trung K\u00eanh"},"X\u00e3 Ph\u00fa H\u00f2a":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Ph\u00fa H\u00f2a"},"X\u00e3 M\u1ef9 H\u01b0\u01a1ng":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 M\u1ef9 H\u01b0\u01a1ng"},"X\u00e3 T\u00e2n L\u00e3ng":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 T\u00e2n L\u00e3ng"},"X\u00e3 Qu\u1ea3ng Ph\u00fa":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Qu\u1ea3ng Ph\u00fa"},"X\u00e3 Tr\u1eebng X\u00e1":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Tr\u1eebng X\u00e1"},"X\u00e3 Lai H\u1ea1":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Lai H\u1ea1"},"X\u00e3 Trung Ch\u00ednh":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Trung Ch\u00ednh"},"X\u00e3 Minh T\u00e2n":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Minh T\u00e2n"},"X\u00e3 B\u00ecnh \u0110\u1ecbnh":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 B\u00ecnh \u0110\u1ecbnh"},"X\u00e3 Ph\u00fa L\u01b0\u01a1ng":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 Ph\u00fa L\u01b0\u01a1ng"},"X\u00e3 L\u00e2m Thao":{"state":"B\u1eafc Ninh","city":"L\u01b0\u01a1ng T\u00e0i","ward":"X\u00e3 L\u00e2m Thao"}},"Tp B\u1eafc Ninh":{"Ph\u01b0\u1eddng V\u0169 Ninh":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng V\u0169 Ninh"},"Ph\u01b0\u1eddng \u0110\u00e1p C\u1ea7u":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng \u0110\u00e1p C\u1ea7u"},"Ph\u01b0\u1eddng Th\u1ecb C\u1ea7u":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Th\u1ecb C\u1ea7u"},"Ph\u01b0\u1eddng Kinh B\u1eafc":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Kinh B\u1eafc"},"Ph\u01b0\u1eddng V\u1ec7 An":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng V\u1ec7 An"},"Ph\u01b0\u1eddng Ti\u1ec1n An":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Ti\u1ec1n An"},"Ph\u01b0\u1eddng \u0110\u1ea1i Ph\u00fac":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng \u0110\u1ea1i Ph\u00fac"},"Ph\u01b0\u1eddng Ninh X\u00e1":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Ninh X\u00e1"},"Ph\u01b0\u1eddng Su\u1ed1i Hoa":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Su\u1ed1i Hoa"},"Ph\u01b0\u1eddng V\u00f5 C\u01b0\u1eddng":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng V\u00f5 C\u01b0\u1eddng"},"Ph\u01b0\u1eddng H\u00f2a Long":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng H\u00f2a Long"},"Ph\u01b0\u1eddng V\u1ea1n An":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng V\u1ea1n An"},"Ph\u01b0\u1eddng Kh\u00fac Xuy\u00ean":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Kh\u00fac Xuy\u00ean"},"Ph\u01b0\u1eddng Phong Kh\u00ea":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Phong Kh\u00ea"},"Ph\u01b0\u1eddng Kim Ch\u00e2n":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Kim Ch\u00e2n"},"Ph\u01b0\u1eddng V\u00e2n D\u01b0\u01a1ng":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng V\u00e2n D\u01b0\u01a1ng"},"Ph\u01b0\u1eddng Nam S\u01a1n":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Nam S\u01a1n"},"Ph\u01b0\u1eddng Kh\u1eafc Ni\u1ec7m":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng Kh\u1eafc Ni\u1ec7m"},"Ph\u01b0\u1eddng H\u1ea1p L\u0129nh":{"state":"B\u1eafc Ninh","city":"Tp B\u1eafc Ninh","ward":"Ph\u01b0\u1eddng H\u1ea1p L\u0129nh"}},"Tp T\u1eeb S\u01a1n":{"Ph\u01b0\u1eddng \u0110\u00f4ng Ng\u00e0n":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng \u0110\u00f4ng Ng\u00e0n"},"Ph\u01b0\u1eddng Tam S\u01a1n":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng Tam S\u01a1n"},"Ph\u01b0\u1eddng H\u01b0\u01a1ng M\u1ea1c":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng H\u01b0\u01a1ng M\u1ea1c"},"Ph\u01b0\u1eddng T\u01b0\u01a1ng Giang":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng T\u01b0\u01a1ng Giang"},"Ph\u01b0\u1eddng Ph\u00f9 Kh\u00ea":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng Ph\u00f9 Kh\u00ea"},"Ph\u01b0\u1eddng \u0110\u1ed3ng K\u1ef5":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng \u0110\u1ed3ng K\u1ef5"},"Ph\u01b0\u1eddng Trang H\u1ea1":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng Trang H\u1ea1"},"Ph\u01b0\u1eddng \u0110\u1ed3ng Nguy\u00ean":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng \u0110\u1ed3ng Nguy\u00ean"},"Ph\u01b0\u1eddng Ch\u00e2u Kh\u00ea":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng Ch\u00e2u Kh\u00ea"},"Ph\u01b0\u1eddng T\u00e2n H\u1ed3ng":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng T\u00e2n H\u1ed3ng"},"Ph\u01b0\u1eddng \u0110\u00ecnh B\u1ea3ng":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng \u0110\u00ecnh B\u1ea3ng"},"Ph\u01b0\u1eddng Ph\u00f9 Ch\u1ea9n":{"state":"B\u1eafc Ninh","city":"Tp T\u1eeb S\u01a1n","ward":"Ph\u01b0\u1eddng Ph\u00f9 Ch\u1ea9n"}},"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5":{"Ph\u01b0\u1eddng Ph\u1ed1 M\u1edbi":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng Ph\u1ed1 M\u1edbi"},"X\u00e3 Vi\u1ec7t Th\u1ed1ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 Vi\u1ec7t Th\u1ed1ng"},"Ph\u01b0\u1eddng \u0110\u1ea1i Xu\u00e2n":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng \u0110\u1ea1i Xu\u00e2n"},"Ph\u01b0\u1eddng Nh\u00e2n H\u00f2a":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng Nh\u00e2n H\u00f2a"},"Ph\u01b0\u1eddng B\u1eb1ng An":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng B\u1eb1ng An"},"Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Li\u1ec5u":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Li\u1ec5u"},"Ph\u01b0\u1eddng Qu\u1ebf T\u00e2n":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng Qu\u1ebf T\u00e2n"},"Ph\u01b0\u1eddng Ph\u00f9 L\u01b0\u01a1ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng Ph\u00f9 L\u01b0\u01a1ng"},"X\u00e3 Ph\u00f9 L\u00e3ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 Ph\u00f9 L\u00e3ng"},"Ph\u01b0\u1eddng Ph\u01b0\u1ee3ng Mao":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng Ph\u01b0\u1ee3ng Mao"},"Ph\u01b0\u1eddng Vi\u1ec7t H\u00f9ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng Vi\u1ec7t H\u00f9ng"},"X\u00e3 Ng\u1ecdc X\u00e1":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 Ng\u1ecdc X\u00e1"},"X\u00e3 Ch\u00e2u Phong":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 Ch\u00e2u Phong"},"Ph\u01b0\u1eddng B\u1ed3ng Lai":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng B\u1ed3ng Lai"},"Ph\u01b0\u1eddng C\u00e1ch Bi":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"Ph\u01b0\u1eddng C\u00e1ch Bi"},"X\u00e3 \u0110\u00e0o Vi\u00ean":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 \u0110\u00e0o Vi\u00ean"},"X\u00e3 Y\u00ean Gi\u1ea3":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 Y\u00ean Gi\u1ea3"},"X\u00e3 M\u1ed9 \u0110\u1ea1o":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 M\u1ed9 \u0110\u1ea1o"},"X\u00e3 \u0110\u1ee9c Long":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 \u0110\u1ee9c Long"},"X\u00e3 Chi L\u0103ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 Chi L\u0103ng"},"X\u00e3 H\u00e1n Qu\u1ea3ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5","ward":"X\u00e3 H\u00e1n Qu\u1ea3ng"}},"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh":{"Ph\u01b0\u1eddng H\u1ed3":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng H\u1ed3"},"X\u00e3 Ho\u00e0i Th\u01b0\u1ee3ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 Ho\u00e0i Th\u01b0\u1ee3ng"},"X\u00e3 \u0110\u1ea1i \u0110\u1ed3ng Th\u00e0nh":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 \u0110\u1ea1i \u0110\u1ed3ng Th\u00e0nh"},"X\u00e3 M\u00e3o \u0110i\u1ec1n":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 M\u00e3o \u0110i\u1ec1n"},"Ph\u01b0\u1eddng Song H\u1ed3":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng Song H\u1ed3"},"X\u00e3 \u0110\u00ecnh T\u1ed5":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 \u0110\u00ecnh T\u1ed5"},"Ph\u01b0\u1eddng An B\u00ecnh":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng An B\u00ecnh"},"Ph\u01b0\u1eddng Tr\u00ed Qu\u1ea3":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng Tr\u00ed Qu\u1ea3"},"Ph\u01b0\u1eddng Gia \u0110\u00f4ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng Gia \u0110\u00f4ng"},"Ph\u01b0\u1eddng Thanh Kh\u01b0\u01a1ng":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng Thanh Kh\u01b0\u01a1ng"},"Ph\u01b0\u1eddng Tr\u1ea1m L\u1ed9":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng Tr\u1ea1m L\u1ed9"},"Ph\u01b0\u1eddng Xu\u00e2n L\u00e2m":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng Xu\u00e2n L\u00e2m"},"Ph\u01b0\u1eddng H\u00e0 M\u00e3n":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng H\u00e0 M\u00e3n"},"X\u00e3 Ng\u0169 Th\u00e1i":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 Ng\u0169 Th\u00e1i"},"X\u00e3 Nguy\u1ec7t \u0110\u1ee9c":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 Nguy\u1ec7t \u0110\u1ee9c"},"Ph\u01b0\u1eddng Ninh X\u00e1":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"Ph\u01b0\u1eddng Ninh X\u00e1"},"X\u00e3 Ngh\u0129a \u0110\u1ea1o":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 Ngh\u0129a \u0110\u1ea1o"},"X\u00e3 Song Li\u1ec5u":{"state":"B\u1eafc Ninh","city":"Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh","ward":"X\u00e3 Song Li\u1ec5u"}},"Ti\u00ean Du":{"Th\u1ecb tr\u1ea5n Lim":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"Th\u1ecb tr\u1ea5n Lim"},"X\u00e3 Ph\u00fa L\u00e2m":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Ph\u00fa L\u00e2m"},"X\u00e3 N\u1ed9i Du\u1ec7":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 N\u1ed9i Du\u1ec7"},"X\u00e3 Li\u00ean B\u00e3o":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Li\u00ean B\u00e3o"},"X\u00e3 Hi\u00ean V\u00e2n":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Hi\u00ean V\u00e2n"},"X\u00e3 Ho\u00e0n S\u01a1n":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Ho\u00e0n S\u01a1n"},"X\u00e3 L\u1ea1c V\u1ec7":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 L\u1ea1c V\u1ec7"},"X\u00e3 Vi\u1ec7t \u0110o\u00e0n":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Vi\u1ec7t \u0110o\u00e0n"},"X\u00e3 Ph\u1eadt T\u00edch":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Ph\u1eadt T\u00edch"},"X\u00e3 T\u00e2n Chi":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 T\u00e2n Chi"},"X\u00e3 \u0110\u1ea1i \u0110\u1ed3ng":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 \u0110\u1ea1i \u0110\u1ed3ng"},"X\u00e3 Tri Ph\u01b0\u01a1ng":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Tri Ph\u01b0\u01a1ng"},"X\u00e3 Minh \u0110\u1ea1o":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 Minh \u0110\u1ea1o"},"X\u00e3 C\u1ea3nh H\u01b0ng":{"state":"B\u1eafc Ninh","city":"Ti\u00ean Du","ward":"X\u00e3 C\u1ea3nh H\u01b0ng"}},"Y\u00ean Phong":{"Th\u1ecb tr\u1ea5n Ch\u1edd":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"Th\u1ecb tr\u1ea5n Ch\u1edd"},"X\u00e3 D\u0169ng Li\u1ec7t":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 D\u0169ng Li\u1ec7t"},"X\u00e3 Tam \u0110a":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 Tam \u0110a"},"X\u00e3 Tam Giang":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 Tam Giang"},"X\u00e3 Y\u00ean Trung":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 Y\u00ean Trung"},"X\u00e3 Th\u1ee5y H\u00f2a":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 Th\u1ee5y H\u00f2a"},"X\u00e3 H\u00f2a Ti\u1ebfn":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 H\u00f2a Ti\u1ebfn"},"X\u00e3 \u0110\u00f4ng Ti\u1ebfn":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 \u0110\u00f4ng Ti\u1ebfn"},"X\u00e3 Y\u00ean Ph\u1ee5":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 Y\u00ean Ph\u1ee5"},"X\u00e3 Trung Ngh\u0129a":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 Trung Ngh\u0129a"},"X\u00e3 \u0110\u00f4ng Phong":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 \u0110\u00f4ng Phong"},"X\u00e3 Long Ch\u00e2u":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 Long Ch\u00e2u"},"X\u00e3 V\u0103n M\u00f4n":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 V\u0103n M\u00f4n"},"X\u00e3 \u0110\u00f4ng Th\u1ecd":{"state":"B\u1eafc Ninh","city":"Y\u00ean Phong","ward":"X\u00e3 \u0110\u00f4ng Th\u1ecd"}}}
+{
+    "Phường Từ Sơn": {
+        "Phường Từ Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Phường Từ Sơn",
+            "ward": "Phường Từ Sơn"
+        }
+    },
+    "Phường Bắc Giang": {
+        "Phường Bắc Giang": {
+            "state": "Bắc Ninh",
+            "city": "Phường Bắc Giang",
+            "ward": "Phường Bắc Giang"
+        }
+    },
+    "Phường Bồng Lai": {
+        "Phường Bồng Lai": {
+            "state": "Bắc Ninh",
+            "city": "Phường Bồng Lai",
+            "ward": "Phường Bồng Lai"
+        }
+    },
+    "Phường Chũ": {
+        "Phường Chũ": {
+            "state": "Bắc Ninh",
+            "city": "Phường Chũ",
+            "ward": "Phường Chũ"
+        }
+    },
+    "Phường Cảnh Thụy": {
+        "Phường Cảnh Thụy": {
+            "state": "Bắc Ninh",
+            "city": "Phường Cảnh Thụy",
+            "ward": "Phường Cảnh Thụy"
+        }
+    },
+    "Phường Hạp Lĩnh": {
+        "Phường Hạp Lĩnh": {
+            "state": "Bắc Ninh",
+            "city": "Phường Hạp Lĩnh",
+            "ward": "Phường Hạp Lĩnh"
+        }
+    },
+    "Phường Kinh Bắc": {
+        "Phường Kinh Bắc": {
+            "state": "Bắc Ninh",
+            "city": "Phường Kinh Bắc",
+            "ward": "Phường Kinh Bắc"
+        }
+    },
+    "Phường Mão Điền": {
+        "Phường Mão Điền": {
+            "state": "Bắc Ninh",
+            "city": "Phường Mão Điền",
+            "ward": "Phường Mão Điền"
+        }
+    },
+    "Phường Nam Sơn ": {
+        "Phường Nam Sơn ": {
+            "state": "Bắc Ninh",
+            "city": "Phường Nam Sơn ",
+            "ward": "Phường Nam Sơn "
+        }
+    },
+    "Phường Nhân Hòa": {
+        "Phường Nhân Hòa": {
+            "state": "Bắc Ninh",
+            "city": "Phường Nhân Hòa",
+            "ward": "Phường Nhân Hòa"
+        }
+    },
+    "Phường Ninh Xá": {
+        "Phường Ninh Xá": {
+            "state": "Bắc Ninh",
+            "city": "Phường Ninh Xá",
+            "ward": "Phường Ninh Xá"
+        }
+    },
+    "Phường Nếnh": {
+        "Phường Nếnh": {
+            "state": "Bắc Ninh",
+            "city": "Phường Nếnh",
+            "ward": "Phường Nếnh"
+        }
+    },
+    "Phường Phù Khê": {
+        "Phường Phù Khê": {
+            "state": "Bắc Ninh",
+            "city": "Phường Phù Khê",
+            "ward": "Phường Phù Khê"
+        }
+    },
+    "Phường Phương Liễu": {
+        "Phường Phương Liễu": {
+            "state": "Bắc Ninh",
+            "city": "Phường Phương Liễu",
+            "ward": "Phường Phương Liễu"
+        }
+    },
+    "Phường Phượng Sơn": {
+        "Phường Phượng Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Phường Phượng Sơn",
+            "ward": "Phường Phượng Sơn"
+        }
+    },
+    "Phường Quế Võ": {
+        "Phường Quế Võ": {
+            "state": "Bắc Ninh",
+            "city": "Phường Quế Võ",
+            "ward": "Phường Quế Võ"
+        }
+    },
+    "Phường Song Liễu": {
+        "Phường Song Liễu": {
+            "state": "Bắc Ninh",
+            "city": "Phường Song Liễu",
+            "ward": "Phường Song Liễu"
+        }
+    },
+    "Phường Tam Sơn": {
+        "Phường Tam Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Phường Tam Sơn",
+            "ward": "Phường Tam Sơn"
+        }
+    },
+    "Phường Thuận Thành": {
+        "Phường Thuận Thành": {
+            "state": "Bắc Ninh",
+            "city": "Phường Thuận Thành",
+            "ward": "Phường Thuận Thành"
+        }
+    },
+    "Phường Tiền Phong": {
+        "Phường Tiền Phong": {
+            "state": "Bắc Ninh",
+            "city": "Phường Tiền Phong",
+            "ward": "Phường Tiền Phong"
+        }
+    },
+    "Phường Trí Quả": {
+        "Phường Trí Quả": {
+            "state": "Bắc Ninh",
+            "city": "Phường Trí Quả",
+            "ward": "Phường Trí Quả"
+        }
+    },
+    "Phường Trạm Lộ": {
+        "Phường Trạm Lộ": {
+            "state": "Bắc Ninh",
+            "city": "Phường Trạm Lộ",
+            "ward": "Phường Trạm Lộ"
+        }
+    },
+    "Phường Tân An": {
+        "Phường Tân An": {
+            "state": "Bắc Ninh",
+            "city": "Phường Tân An",
+            "ward": "Phường Tân An"
+        }
+    },
+    "Phường Tân Tiến": {
+        "Phường Tân Tiến": {
+            "state": "Bắc Ninh",
+            "city": "Phường Tân Tiến",
+            "ward": "Phường Tân Tiến"
+        }
+    },
+    "Phường Tự Lạn": {
+        "Phường Tự Lạn": {
+            "state": "Bắc Ninh",
+            "city": "Phường Tự Lạn",
+            "ward": "Phường Tự Lạn"
+        }
+    },
+    "Phường Việt Yên": {
+        "Phường Việt Yên": {
+            "state": "Bắc Ninh",
+            "city": "Phường Việt Yên",
+            "ward": "Phường Việt Yên"
+        }
+    },
+    "Phường Vân Hà": {
+        "Phường Vân Hà": {
+            "state": "Bắc Ninh",
+            "city": "Phường Vân Hà",
+            "ward": "Phường Vân Hà"
+        }
+    },
+    "Phường Võ Cường": {
+        "Phường Võ Cường": {
+            "state": "Bắc Ninh",
+            "city": "Phường Võ Cường",
+            "ward": "Phường Võ Cường"
+        }
+    },
+    "Phường Vũ Ninh": {
+        "Phường Vũ Ninh": {
+            "state": "Bắc Ninh",
+            "city": "Phường Vũ Ninh",
+            "ward": "Phường Vũ Ninh"
+        }
+    },
+    "Phường Yên Dũng": {
+        "Phường Yên Dũng": {
+            "state": "Bắc Ninh",
+            "city": "Phường Yên Dũng",
+            "ward": "Phường Yên Dũng"
+        }
+    },
+    "Phường Đa Mai": {
+        "Phường Đa Mai": {
+            "state": "Bắc Ninh",
+            "city": "Phường Đa Mai",
+            "ward": "Phường Đa Mai"
+        }
+    },
+    "Phường Đào Viên": {
+        "Phường Đào Viên": {
+            "state": "Bắc Ninh",
+            "city": "Phường Đào Viên",
+            "ward": "Phường Đào Viên"
+        }
+    },
+    "Phường Đồng Nguyên": {
+        "Phường Đồng Nguyên": {
+            "state": "Bắc Ninh",
+            "city": "Phường Đồng Nguyên",
+            "ward": "Phường Đồng Nguyên"
+        }
+    },
+    "Xã An Lạc": {
+        "Xã An Lạc": {
+            "state": "Bắc Ninh",
+            "city": "Xã An Lạc",
+            "ward": "Xã An Lạc"
+        }
+    },
+    "Xã Biên Sơn": {
+        "Xã Biên Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Biên Sơn",
+            "ward": "Xã Biên Sơn"
+        }
+    },
+    "Xã Biển Động": {
+        "Xã Biển Động": {
+            "state": "Bắc Ninh",
+            "city": "Xã Biển Động",
+            "ward": "Xã Biển Động"
+        }
+    },
+    "Xã Bảo Đài": {
+        "Xã Bảo Đài": {
+            "state": "Bắc Ninh",
+            "city": "Xã Bảo Đài",
+            "ward": "Xã Bảo Đài"
+        }
+    },
+    "Xã Bắc Lũng": {
+        "Xã Bắc Lũng": {
+            "state": "Bắc Ninh",
+            "city": "Xã Bắc Lũng",
+            "ward": "Xã Bắc Lũng"
+        }
+    },
+    "Xã Bố Hạ": {
+        "Xã Bố Hạ": {
+            "state": "Bắc Ninh",
+            "city": "Xã Bố Hạ",
+            "ward": "Xã Bố Hạ"
+        }
+    },
+    "Xã Cao Đức": {
+        "Xã Cao Đức": {
+            "state": "Bắc Ninh",
+            "city": "Xã Cao Đức",
+            "ward": "Xã Cao Đức"
+        }
+    },
+    "Xã Chi Lăng": {
+        "Xã Chi Lăng": {
+            "state": "Bắc Ninh",
+            "city": "Xã Chi Lăng",
+            "ward": "Xã Chi Lăng"
+        }
+    },
+    "Xã Cẩm Lý": {
+        "Xã Cẩm Lý": {
+            "state": "Bắc Ninh",
+            "city": "Xã Cẩm Lý",
+            "ward": "Xã Cẩm Lý"
+        }
+    },
+    "Xã Dương Hưu": {
+        "Xã Dương Hưu": {
+            "state": "Bắc Ninh",
+            "city": "Xã Dương Hưu",
+            "ward": "Xã Dương Hưu"
+        }
+    },
+    "Xã Gia Bình": {
+        "Xã Gia Bình": {
+            "state": "Bắc Ninh",
+            "city": "Xã Gia Bình",
+            "ward": "Xã Gia Bình"
+        }
+    },
+    "Xã Hiệp Hòa": {
+        "Xã Hiệp Hòa": {
+            "state": "Bắc Ninh",
+            "city": "Xã Hiệp Hòa",
+            "ward": "Xã Hiệp Hòa"
+        }
+    },
+    "Xã Hoàng Vân": {
+        "Xã Hoàng Vân": {
+            "state": "Bắc Ninh",
+            "city": "Xã Hoàng Vân",
+            "ward": "Xã Hoàng Vân"
+        }
+    },
+    "Xã Hợp Thịnh": {
+        "Xã Hợp Thịnh": {
+            "state": "Bắc Ninh",
+            "city": "Xã Hợp Thịnh",
+            "ward": "Xã Hợp Thịnh"
+        }
+    },
+    "Xã Kiên Lao": {
+        "Xã Kiên Lao": {
+            "state": "Bắc Ninh",
+            "city": "Xã Kiên Lao",
+            "ward": "Xã Kiên Lao"
+        }
+    },
+    "Xã Kép": {
+        "Xã Kép": {
+            "state": "Bắc Ninh",
+            "city": "Xã Kép",
+            "ward": "Xã Kép"
+        }
+    },
+    "Xã Liên Bão": {
+        "Xã Liên Bão": {
+            "state": "Bắc Ninh",
+            "city": "Xã Liên Bão",
+            "ward": "Xã Liên Bão"
+        }
+    },
+    "Xã Lâm Thao": {
+        "Xã Lâm Thao": {
+            "state": "Bắc Ninh",
+            "city": "Xã Lâm Thao",
+            "ward": "Xã Lâm Thao"
+        }
+    },
+    "Xã Lương Tài": {
+        "Xã Lương Tài": {
+            "state": "Bắc Ninh",
+            "city": "Xã Lương Tài",
+            "ward": "Xã Lương Tài"
+        }
+    },
+    "Xã Lạng Giang": {
+        "Xã Lạng Giang": {
+            "state": "Bắc Ninh",
+            "city": "Xã Lạng Giang",
+            "ward": "Xã Lạng Giang"
+        }
+    },
+    "Xã Lục Nam": {
+        "Xã Lục Nam": {
+            "state": "Bắc Ninh",
+            "city": "Xã Lục Nam",
+            "ward": "Xã Lục Nam"
+        }
+    },
+    "Xã Lục Ngạn": {
+        "Xã Lục Ngạn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Lục Ngạn",
+            "ward": "Xã Lục Ngạn"
+        }
+    },
+    "Xã Lục Sơn": {
+        "Xã Lục Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Lục Sơn",
+            "ward": "Xã Lục Sơn"
+        }
+    },
+    "Xã Mỹ Thái": {
+        "Xã Mỹ Thái": {
+            "state": "Bắc Ninh",
+            "city": "Xã Mỹ Thái",
+            "ward": "Xã Mỹ Thái"
+        }
+    },
+    "Xã Nam Dương": {
+        "Xã Nam Dương": {
+            "state": "Bắc Ninh",
+            "city": "Xã Nam Dương",
+            "ward": "Xã Nam Dương"
+        }
+    },
+    "Xã Nghĩa Phương": {
+        "Xã Nghĩa Phương": {
+            "state": "Bắc Ninh",
+            "city": "Xã Nghĩa Phương",
+            "ward": "Xã Nghĩa Phương"
+        }
+    },
+    "Xã Ngọc Thiện": {
+        "Xã Ngọc Thiện": {
+            "state": "Bắc Ninh",
+            "city": "Xã Ngọc Thiện",
+            "ward": "Xã Ngọc Thiện"
+        }
+    },
+    "Xã Nhân Thắng": {
+        "Xã Nhân Thắng": {
+            "state": "Bắc Ninh",
+            "city": "Xã Nhân Thắng",
+            "ward": "Xã Nhân Thắng"
+        }
+    },
+    "Xã Nhã Nam": {
+        "Xã Nhã Nam": {
+            "state": "Bắc Ninh",
+            "city": "Xã Nhã Nam",
+            "ward": "Xã Nhã Nam"
+        }
+    },
+    "Xã Phù Lãng": {
+        "Xã Phù Lãng": {
+            "state": "Bắc Ninh",
+            "city": "Xã Phù Lãng",
+            "ward": "Xã Phù Lãng"
+        }
+    },
+    "Xã Phúc Hòa": {
+        "Xã Phúc Hòa": {
+            "state": "Bắc Ninh",
+            "city": "Xã Phúc Hòa",
+            "ward": "Xã Phúc Hòa"
+        }
+    },
+    "Xã Phật Tích": {
+        "Xã Phật Tích": {
+            "state": "Bắc Ninh",
+            "city": "Xã Phật Tích",
+            "ward": "Xã Phật Tích"
+        }
+    },
+    "Xã Quang Trung": {
+        "Xã Quang Trung": {
+            "state": "Bắc Ninh",
+            "city": "Xã Quang Trung",
+            "ward": "Xã Quang Trung"
+        }
+    },
+    "Xã Sa Lý": {
+        "Xã Sa Lý": {
+            "state": "Bắc Ninh",
+            "city": "Xã Sa Lý",
+            "ward": "Xã Sa Lý"
+        }
+    },
+    "Xã Sơn Hải": {
+        "Xã Sơn Hải": {
+            "state": "Bắc Ninh",
+            "city": "Xã Sơn Hải",
+            "ward": "Xã Sơn Hải"
+        }
+    },
+    "Xã Sơn Động": {
+        "Xã Sơn Động": {
+            "state": "Bắc Ninh",
+            "city": "Xã Sơn Động",
+            "ward": "Xã Sơn Động"
+        }
+    },
+    "Xã Tam Giang": {
+        "Xã Tam Giang": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tam Giang",
+            "ward": "Xã Tam Giang"
+        }
+    },
+    "Xã Tam Tiến": {
+        "Xã Tam Tiến": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tam Tiến",
+            "ward": "Xã Tam Tiến"
+        }
+    },
+    "Xã Tam Đa": {
+        "Xã Tam Đa": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tam Đa",
+            "ward": "Xã Tam Đa"
+        }
+    },
+    "Xã Tiên Du": {
+        "Xã Tiên Du": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tiên Du",
+            "ward": "Xã Tiên Du"
+        }
+    },
+    "Xã Tiên Lục": {
+        "Xã Tiên Lục": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tiên Lục",
+            "ward": "Xã Tiên Lục"
+        }
+    },
+    "Xã Trung Chính": {
+        "Xã Trung Chính": {
+            "state": "Bắc Ninh",
+            "city": "Xã Trung Chính",
+            "ward": "Xã Trung Chính"
+        }
+    },
+    "Xã Trung Kênh": {
+        "Xã Trung Kênh": {
+            "state": "Bắc Ninh",
+            "city": "Xã Trung Kênh",
+            "ward": "Xã Trung Kênh"
+        }
+    },
+    "Xã Trường Sơn": {
+        "Xã Trường Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Trường Sơn",
+            "ward": "Xã Trường Sơn"
+        }
+    },
+    "Xã Tuấn Đạo": {
+        "Xã Tuấn Đạo": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tuấn Đạo",
+            "ward": "Xã Tuấn Đạo"
+        }
+    },
+    "Xã Tân Chi": {
+        "Xã Tân Chi": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tân Chi",
+            "ward": "Xã Tân Chi"
+        }
+    },
+    "Xã Tân Dĩnh": {
+        "Xã Tân Dĩnh": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tân Dĩnh",
+            "ward": "Xã Tân Dĩnh"
+        }
+    },
+    "Xã Tân Sơn": {
+        "Xã Tân Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tân Sơn",
+            "ward": "Xã Tân Sơn"
+        }
+    },
+    "Xã Tân Yên": {
+        "Xã Tân Yên": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tân Yên",
+            "ward": "Xã Tân Yên"
+        }
+    },
+    "Xã Tây Yên Tử": {
+        "Xã Tây Yên Tử": {
+            "state": "Bắc Ninh",
+            "city": "Xã Tây Yên Tử",
+            "ward": "Xã Tây Yên Tử"
+        }
+    },
+    "Xã Vân Sơn": {
+        "Xã Vân Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Vân Sơn",
+            "ward": "Xã Vân Sơn"
+        }
+    },
+    "Xã Văn Môn": {
+        "Xã Văn Môn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Văn Môn",
+            "ward": "Xã Văn Môn"
+        }
+    },
+    "Xã Xuân Cẩm": {
+        "Xã Xuân Cẩm": {
+            "state": "Bắc Ninh",
+            "city": "Xã Xuân Cẩm",
+            "ward": "Xã Xuân Cẩm"
+        }
+    },
+    "Xã Xuân Lương": {
+        "Xã Xuân Lương": {
+            "state": "Bắc Ninh",
+            "city": "Xã Xuân Lương",
+            "ward": "Xã Xuân Lương"
+        }
+    },
+    "Xã Yên Phong": {
+        "Xã Yên Phong": {
+            "state": "Bắc Ninh",
+            "city": "Xã Yên Phong",
+            "ward": "Xã Yên Phong"
+        }
+    },
+    "Xã Yên Thế": {
+        "Xã Yên Thế": {
+            "state": "Bắc Ninh",
+            "city": "Xã Yên Thế",
+            "ward": "Xã Yên Thế"
+        }
+    },
+    "Xã Yên Trung": {
+        "Xã Yên Trung": {
+            "state": "Bắc Ninh",
+            "city": "Xã Yên Trung",
+            "ward": "Xã Yên Trung"
+        }
+    },
+    "Xã Yên Định": {
+        "Xã Yên Định": {
+            "state": "Bắc Ninh",
+            "city": "Xã Yên Định",
+            "ward": "Xã Yên Định"
+        }
+    },
+    "Xã Đèo Gia": {
+        "Xã Đèo Gia": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đèo Gia",
+            "ward": "Xã Đèo Gia"
+        }
+    },
+    "Xã Đông Cứu": {
+        "Xã Đông Cứu": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đông Cứu",
+            "ward": "Xã Đông Cứu"
+        }
+    },
+    "Xã Đông Phú": {
+        "Xã Đông Phú": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đông Phú",
+            "ward": "Xã Đông Phú"
+        }
+    },
+    "Xã Đại Lai": {
+        "Xã Đại Lai": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đại Lai",
+            "ward": "Xã Đại Lai"
+        }
+    },
+    "Xã Đại Sơn": {
+        "Xã Đại Sơn": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đại Sơn",
+            "ward": "Xã Đại Sơn"
+        }
+    },
+    "Xã Đại Đồng": {
+        "Xã Đại Đồng": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đại Đồng",
+            "ward": "Xã Đại Đồng"
+        }
+    },
+    "Xã Đồng Kỳ": {
+        "Xã Đồng Kỳ": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đồng Kỳ",
+            "ward": "Xã Đồng Kỳ"
+        }
+    },
+    "Xã Đồng Việt": {
+        "Xã Đồng Việt": {
+            "state": "Bắc Ninh",
+            "city": "Xã Đồng Việt",
+            "ward": "Xã Đồng Việt"
+        }
+    }
+}

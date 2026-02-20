@@ -1,1 +1,104 @@
-{"hanoi":{"state":"H\u00e0 N\u1ed9i"},"hochiminh":{"state":"TP H\u1ed3 Ch\u00ed Minh"},"angiang":{"state":"An Giang"},"bacgiang":{"state":"B\u1eafc Giang"},"backan":{"state":"B\u1eafc K\u1ea1n"},"baclieu":{"state":"B\u1ea1c Li\u00eau"},"bacninh":{"state":"B\u1eafc Ninh"},"baria-vungtau":{"state":"B\u00e0 R\u1ecba - V\u0169ng T\u00e0u"},"bentre":{"state":"B\u1ebfn Tre"},"binhdinh":{"state":"B\u00ecnh \u0110\u1ecbnh"},"binhduong":{"state":"B\u00ecnh D\u01b0\u01a1ng"},"binhphuoc":{"state":"B\u00ecnh Ph\u01b0\u1edbc"},"binhthuan":{"state":"B\u00ecnh Thu\u1eadn"},"camau":{"state":"C\u00e0 Mau"},"cantho":{"state":"C\u1ea7n Th\u01a1"},"caobang":{"state":"Cao B\u1eb1ng"},"daklak":{"state":"\u0110\u1eafk L\u1eafk"},"daknong":{"state":"\u0110\u1eafk N\u00f4ng"},"danang":{"state":"\u0110\u00e0 N\u1eb5ng"},"dienbien":{"state":"\u0110i\u1ec7n Bi\u00ean"},"dongnai":{"state":"\u0110\u1ed3ng Nai"},"dongthap":{"state":"\u0110\u1ed3ng Th\u00e1p"},"gialai":{"state":"Gia Lai"},"hagiang":{"state":"H\u00e0 Giang"},"haiduong":{"state":"H\u1ea3i D\u01b0\u01a1ng"},"haiphong":{"state":"H\u1ea3i Ph\u00f2ng"},"hanam":{"state":"H\u00e0 Nam"},"hatinh":{"state":"H\u00e0 T\u0129nh"},"haugiang":{"state":"H\u1eadu Giang"},"hoabinh":{"state":"Ho\u00e0 B\u00ecnh"},"hungyen":{"state":"H\u01b0ng Y\u00ean"},"khanhhoa":{"state":"Kh\u00e1nh H\u00f2a"},"kiengiang":{"state":"Ki\u00ean Giang"},"kontum":{"state":"Kon Tum"},"laichau":{"state":"Lai Ch\u00e2u"},"lamdong":{"state":"L\u00e2m \u0110\u1ed3ng"},"langson":{"state":"L\u1ea1ng S\u01a1n"},"laocai":{"state":"L\u00e0o Cai"},"longan":{"state":"Long An"},"namdinh":{"state":"Nam \u0110\u1ecbnh"},"nghean":{"state":"Ngh\u1ec7 An"},"ninhbinh":{"state":"Ninh B\u00ecnh"},"ninhthuan":{"state":"Ninh Thu\u1eadn"},"phutho":{"state":"Ph\u00fa Th\u1ecd"},"phuyen":{"state":"Ph\u00fa Y\u00ean"},"quangbinh":{"state":"Qu\u1ea3ng B\u00ecnh"},"quangnam":{"state":"Qu\u1ea3ng Nam"},"quangngai":{"state":"Qu\u1ea3ng Ng\u00e3i"},"quangninh":{"state":"Qu\u1ea3ng Ninh"},"quangtri":{"state":"Qu\u1ea3ng Tr\u1ecb"},"soctrang":{"state":"S\u00f3c Tr\u0103ng"},"sonla":{"state":"S\u01a1n La"},"tayninh":{"state":"T\u00e2y Ninh"},"thaibinh":{"state":"Th\u00e1i B\u00ecnh"},"thainguyen":{"state":"Th\u00e1i Nguy\u00ean"},"thanhhoa":{"state":"Thanh H\u00f3a"},"thuathienhue":{"state":"Th\u1eeba Thi\u00ean Hu\u1ebf"},"tiengiang":{"state":"Ti\u1ec1n Giang"},"travinh":{"state":"Tr\u00e0 Vinh"},"tuyenquang":{"state":"Tuy\u00ean Quang"},"vinhlong":{"state":"V\u0129nh Long"},"vinhphuc":{"state":"V\u0129nh Ph\u00fac"},"yenbai":{"state":"Y\u00ean B\u00e1i"}}
+{
+    "angiang": {
+        "state": "An Giang"
+    },
+    "bacninh": {
+        "state": "Bắc Ninh"
+    },
+    "caobang": {
+        "state": "Cao Bằng"
+    },
+    "camau": {
+        "state": "Cà Mau"
+    },
+    "cantho": {
+        "state": "Cần Thơ"
+    },
+    "gialai": {
+        "state": "Gia Lai"
+    },
+    "hue": {
+        "state": "Huế"
+    },
+    "hanoi": {
+        "state": "Hà Nội"
+    },
+    "hatinh": {
+        "state": "Hà Tĩnh"
+    },
+    "hungyen": {
+        "state": "Hưng Yên"
+    },
+    "haiphong": {
+        "state": "Hải Phòng"
+    },
+    "hochiminh": {
+        "state": "Hồ Chí Minh"
+    },
+    "khanhhoa": {
+        "state": "Khánh Hòa"
+    },
+    "laichau": {
+        "state": "Lai Châu"
+    },
+    "laocai": {
+        "state": "Lào Cai"
+    },
+    "lamdong": {
+        "state": "Lâm Đồng"
+    },
+    "langson": {
+        "state": "Lạng Sơn"
+    },
+    "nghean": {
+        "state": "Nghệ An"
+    },
+    "ninhbinh": {
+        "state": "Ninh Bình"
+    },
+    "phutho": {
+        "state": "Phú Thọ"
+    },
+    "quangngai": {
+        "state": "Quảng Ngãi"
+    },
+    "quangninh": {
+        "state": "Quảng Ninh"
+    },
+    "quangtri": {
+        "state": "Quảng Trị"
+    },
+    "sonla": {
+        "state": "Sơn La"
+    },
+    "thanhhoa": {
+        "state": "Thanh Hóa"
+    },
+    "thainguyen": {
+        "state": "Thái Nguyên"
+    },
+    "tuyenquang": {
+        "state": "Tuyên Quang"
+    },
+    "tayninh": {
+        "state": "Tây Ninh"
+    },
+    "vinhlong": {
+        "state": "Vĩnh Long"
+    },
+    "dienbien": {
+        "state": "Điện Biên"
+    },
+    "danang": {
+        "state": "Đà Nẵng"
+    },
+    "daklak": {
+        "state": "Đắk Lắk"
+    },
+    "dongnai": {
+        "state": "Đồng Nai"
+    },
+    "dongthap": {
+        "state": "Đồng Tháp"
+    }
+}

@@ -1,1 +1,660 @@
-{"H\u00f2a Vang":{"X\u00e3 H\u00f2a B\u1eafc":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a B\u1eafc"},"X\u00e3 H\u00f2a Li\u00ean":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Li\u00ean"},"X\u00e3 H\u00f2a Ninh":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Ninh"},"X\u00e3 H\u00f2a S\u01a1n":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a S\u01a1n"},"X\u00e3 H\u00f2a Nh\u01a1n":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Nh\u01a1n"},"X\u00e3 H\u00f2a Ph\u00fa":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Ph\u00fa"},"X\u00e3 H\u00f2a Phong":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Phong"},"X\u00e3 H\u00f2a Ch\u00e2u":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Ch\u00e2u"},"X\u00e3 H\u00f2a Ti\u1ebfn":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Ti\u1ebfn"},"X\u00e3 H\u00f2a Ph\u01b0\u1edbc":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Ph\u01b0\u1edbc"},"X\u00e3 H\u00f2a Kh\u01b0\u01a1ng":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u00f2a Vang","ward":"X\u00e3 H\u00f2a Kh\u01b0\u01a1ng"}},"Ho\u00e0ng Sa":{"":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Ho\u00e0ng Sa","ward":""}},"C\u1ea9m L\u1ec7":{"Ph\u01b0\u1eddng Khu\u00ea Trung":{"state":"\u0110\u00e0 N\u1eb5ng","city":"C\u1ea9m L\u1ec7","ward":"Ph\u01b0\u1eddng Khu\u00ea Trung"},"Ph\u01b0\u1eddng H\u00f2a Ph\u00e1t":{"state":"\u0110\u00e0 N\u1eb5ng","city":"C\u1ea9m L\u1ec7","ward":"Ph\u01b0\u1eddng H\u00f2a Ph\u00e1t"},"Ph\u01b0\u1eddng H\u00f2a An":{"state":"\u0110\u00e0 N\u1eb5ng","city":"C\u1ea9m L\u1ec7","ward":"Ph\u01b0\u1eddng H\u00f2a An"},"Ph\u01b0\u1eddng H\u00f2a Th\u1ecd T\u00e2y":{"state":"\u0110\u00e0 N\u1eb5ng","city":"C\u1ea9m L\u1ec7","ward":"Ph\u01b0\u1eddng H\u00f2a Th\u1ecd T\u00e2y"},"Ph\u01b0\u1eddng H\u00f2a Th\u1ecd \u0110\u00f4ng":{"state":"\u0110\u00e0 N\u1eb5ng","city":"C\u1ea9m L\u1ec7","ward":"Ph\u01b0\u1eddng H\u00f2a Th\u1ecd \u0110\u00f4ng"},"Ph\u01b0\u1eddng H\u00f2a Xu\u00e2n":{"state":"\u0110\u00e0 N\u1eb5ng","city":"C\u1ea9m L\u1ec7","ward":"Ph\u01b0\u1eddng H\u00f2a Xu\u00e2n"}},"H\u1ea3i Ch\u00e2u":{"Ph\u01b0\u1eddng Thanh B\u00ecnh":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng Thanh B\u00ecnh"},"Ph\u01b0\u1eddng Thu\u1eadn Ph\u01b0\u1edbc":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng Thu\u1eadn Ph\u01b0\u1edbc"},"Ph\u01b0\u1eddng Th\u1ea1ch Thang":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng Th\u1ea1ch Thang"},"Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u  I":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u  I"},"Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u II":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng H\u1ea3i Ch\u00e2u II"},"Ph\u01b0\u1eddng Ph\u01b0\u1edbc Ninh":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng Ph\u01b0\u1edbc Ninh"},"Ph\u01b0\u1eddng H\u00f2a Thu\u1eadn T\u00e2y":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng H\u00f2a Thu\u1eadn T\u00e2y"},"Ph\u01b0\u1eddng H\u00f2a Thu\u1eadn \u0110\u00f4ng":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng H\u00f2a Thu\u1eadn \u0110\u00f4ng"},"Ph\u01b0\u1eddng Nam D\u01b0\u01a1ng":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng Nam D\u01b0\u01a1ng"},"Ph\u01b0\u1eddng B\u00ecnh Hi\u00ean":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng B\u00ecnh Hi\u00ean"},"Ph\u01b0\u1eddng B\u00ecnh Thu\u1eadn":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng B\u00ecnh Thu\u1eadn"},"Ph\u01b0\u1eddng H\u00f2a C\u01b0\u1eddng B\u1eafc":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng H\u00f2a C\u01b0\u1eddng B\u1eafc"},"Ph\u01b0\u1eddng H\u00f2a C\u01b0\u1eddng Nam":{"state":"\u0110\u00e0 N\u1eb5ng","city":"H\u1ea3i Ch\u00e2u","ward":"Ph\u01b0\u1eddng H\u00f2a C\u01b0\u1eddng Nam"}},"Li\u00ean Chi\u1ec3u":{"Ph\u01b0\u1eddng H\u00f2a Hi\u1ec7p B\u1eafc":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Li\u00ean Chi\u1ec3u","ward":"Ph\u01b0\u1eddng H\u00f2a Hi\u1ec7p B\u1eafc"},"Ph\u01b0\u1eddng H\u00f2a Hi\u1ec7p Nam":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Li\u00ean Chi\u1ec3u","ward":"Ph\u01b0\u1eddng H\u00f2a Hi\u1ec7p Nam"},"Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Li\u00ean Chi\u1ec3u","ward":"Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh B\u1eafc"},"Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh Nam":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Li\u00ean Chi\u1ec3u","ward":"Ph\u01b0\u1eddng H\u00f2a Kh\u00e1nh Nam"},"Ph\u01b0\u1eddng H\u00f2a Minh":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Li\u00ean Chi\u1ec3u","ward":"Ph\u01b0\u1eddng H\u00f2a Minh"}},"Ng\u0169 H\u00e0nh S\u01a1n":{"Ph\u01b0\u1eddng M\u1ef9 An":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Ng\u0169 H\u00e0nh S\u01a1n","ward":"Ph\u01b0\u1eddng M\u1ef9 An"},"Ph\u01b0\u1eddng Khu\u00ea M\u1ef9":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Ng\u0169 H\u00e0nh S\u01a1n","ward":"Ph\u01b0\u1eddng Khu\u00ea M\u1ef9"},"Ph\u01b0\u1eddng Ho\u00e0 Qu\u00fd":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Ng\u0169 H\u00e0nh S\u01a1n","ward":"Ph\u01b0\u1eddng Ho\u00e0 Qu\u00fd"},"Ph\u01b0\u1eddng Ho\u00e0 H\u1ea3i":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Ng\u0169 H\u00e0nh S\u01a1n","ward":"Ph\u01b0\u1eddng Ho\u00e0 H\u1ea3i"}},"S\u01a1n Tr\u00e0":{"Ph\u01b0\u1eddng Th\u1ecd Quang":{"state":"\u0110\u00e0 N\u1eb5ng","city":"S\u01a1n Tr\u00e0","ward":"Ph\u01b0\u1eddng Th\u1ecd Quang"},"Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng":{"state":"\u0110\u00e0 N\u1eb5ng","city":"S\u01a1n Tr\u00e0","ward":"Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"},"Ph\u01b0\u1eddng M\u00e2n Th\u00e1i":{"state":"\u0110\u00e0 N\u1eb5ng","city":"S\u01a1n Tr\u00e0","ward":"Ph\u01b0\u1eddng M\u00e2n Th\u00e1i"},"Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc":{"state":"\u0110\u00e0 N\u1eb5ng","city":"S\u01a1n Tr\u00e0","ward":"Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"},"Ph\u01b0\u1eddng Ph\u01b0\u1edbc M\u1ef9":{"state":"\u0110\u00e0 N\u1eb5ng","city":"S\u01a1n Tr\u00e0","ward":"Ph\u01b0\u1eddng Ph\u01b0\u1edbc M\u1ef9"},"Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y":{"state":"\u0110\u00e0 N\u1eb5ng","city":"S\u01a1n Tr\u00e0","ward":"Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"},"Ph\u01b0\u1eddng An H\u1ea3i \u0110\u00f4ng":{"state":"\u0110\u00e0 N\u1eb5ng","city":"S\u01a1n Tr\u00e0","ward":"Ph\u01b0\u1eddng An H\u1ea3i \u0110\u00f4ng"}},"Thanh Kh\u00ea":{"Ph\u01b0\u1eddng Tam Thu\u1eadn":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng Tam Thu\u1eadn"},"Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng Thanh Kh\u00ea T\u00e2y"},"Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng Thanh Kh\u00ea \u0110\u00f4ng"},"Ph\u01b0\u1eddng Xu\u00e2n H\u00e0":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng Xu\u00e2n H\u00e0"},"Ph\u01b0\u1eddng T\u00e2n Ch\u00ednh":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng T\u00e2n Ch\u00ednh"},"Ph\u01b0\u1eddng Ch\u00ednh Gi\u00e1n":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng Ch\u00ednh Gi\u00e1n"},"Ph\u01b0\u1eddng V\u0129nh Trung":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng V\u0129nh Trung"},"Ph\u01b0\u1eddng Th\u1ea1c Gi\u00e1n":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng Th\u1ea1c Gi\u00e1n"},"Ph\u01b0\u1eddng An Kh\u00ea":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng An Kh\u00ea"},"Ph\u01b0\u1eddng H\u00f2a Kh\u00ea":{"state":"\u0110\u00e0 N\u1eb5ng","city":"Thanh Kh\u00ea","ward":"Ph\u01b0\u1eddng H\u00f2a Kh\u00ea"}}}
+{
+    "Đặc khu Hoàng Sa": {
+        "Đặc khu Hoàng Sa": {
+            "state": "Đà Nẵng",
+            "city": "Đặc khu Hoàng Sa",
+            "ward": "Đặc khu Hoàng Sa"
+        }
+    },
+    "Phường An Hải": {
+        "Phường An Hải": {
+            "state": "Đà Nẵng",
+            "city": "Phường An Hải",
+            "ward": "Phường An Hải"
+        }
+    },
+    "Phường An Khê": {
+        "Phường An Khê": {
+            "state": "Đà Nẵng",
+            "city": "Phường An Khê",
+            "ward": "Phường An Khê"
+        }
+    },
+    "Phường An Thắng": {
+        "Phường An Thắng": {
+            "state": "Đà Nẵng",
+            "city": "Phường An Thắng",
+            "ward": "Phường An Thắng"
+        }
+    },
+    "Phường Bàn Thạch": {
+        "Phường Bàn Thạch": {
+            "state": "Đà Nẵng",
+            "city": "Phường Bàn Thạch",
+            "ward": "Phường Bàn Thạch"
+        }
+    },
+    "Phường Cẩm Lệ": {
+        "Phường Cẩm Lệ": {
+            "state": "Đà Nẵng",
+            "city": "Phường Cẩm Lệ",
+            "ward": "Phường Cẩm Lệ"
+        }
+    },
+    "Phường Hòa Cường": {
+        "Phường Hòa Cường": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hòa Cường",
+            "ward": "Phường Hòa Cường"
+        }
+    },
+    "Phường Hòa Khánh": {
+        "Phường Hòa Khánh": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hòa Khánh",
+            "ward": "Phường Hòa Khánh"
+        }
+    },
+    "Phường Hòa Xuân": {
+        "Phường Hòa Xuân": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hòa Xuân",
+            "ward": "Phường Hòa Xuân"
+        }
+    },
+    "Phường Hương Trà": {
+        "Phường Hương Trà": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hương Trà",
+            "ward": "Phường Hương Trà"
+        }
+    },
+    "Phường Hải Châu": {
+        "Phường Hải Châu": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hải Châu",
+            "ward": "Phường Hải Châu"
+        }
+    },
+    "Phường Hải Vân": {
+        "Phường Hải Vân": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hải Vân",
+            "ward": "Phường Hải Vân"
+        }
+    },
+    "Phường Hội An": {
+        "Phường Hội An": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hội An",
+            "ward": "Phường Hội An"
+        }
+    },
+    "Phường Hội An Tây": {
+        "Phường Hội An Tây": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hội An Tây",
+            "ward": "Phường Hội An Tây"
+        }
+    },
+    "Phường Hội An Đông": {
+        "Phường Hội An Đông": {
+            "state": "Đà Nẵng",
+            "city": "Phường Hội An Đông",
+            "ward": "Phường Hội An Đông"
+        }
+    },
+    "Phường Liên Chiểu": {
+        "Phường Liên Chiểu": {
+            "state": "Đà Nẵng",
+            "city": "Phường Liên Chiểu",
+            "ward": "Phường Liên Chiểu"
+        }
+    },
+    "Phường Ngũ Hành Sơn": {
+        "Phường Ngũ Hành Sơn": {
+            "state": "Đà Nẵng",
+            "city": "Phường Ngũ Hành Sơn",
+            "ward": "Phường Ngũ Hành Sơn"
+        }
+    },
+    "Phường Quảng Phú": {
+        "Phường Quảng Phú": {
+            "state": "Đà Nẵng",
+            "city": "Phường Quảng Phú",
+            "ward": "Phường Quảng Phú"
+        }
+    },
+    "Phường Sơn Trà": {
+        "Phường Sơn Trà": {
+            "state": "Đà Nẵng",
+            "city": "Phường Sơn Trà",
+            "ward": "Phường Sơn Trà"
+        }
+    },
+    "Phường Tam Kỳ": {
+        "Phường Tam Kỳ": {
+            "state": "Đà Nẵng",
+            "city": "Phường Tam Kỳ",
+            "ward": "Phường Tam Kỳ"
+        }
+    },
+    "Phường Thanh Khê": {
+        "Phường Thanh Khê": {
+            "state": "Đà Nẵng",
+            "city": "Phường Thanh Khê",
+            "ward": "Phường Thanh Khê"
+        }
+    },
+    "Phường Điện Bàn": {
+        "Phường Điện Bàn": {
+            "state": "Đà Nẵng",
+            "city": "Phường Điện Bàn",
+            "ward": "Phường Điện Bàn"
+        }
+    },
+    "Phường Điện Bàn Bắc": {
+        "Phường Điện Bàn Bắc": {
+            "state": "Đà Nẵng",
+            "city": "Phường Điện Bàn Bắc",
+            "ward": "Phường Điện Bàn Bắc"
+        }
+    },
+    "Phường Điện Bàn Đông": {
+        "Phường Điện Bàn Đông": {
+            "state": "Đà Nẵng",
+            "city": "Phường Điện Bàn Đông",
+            "ward": "Phường Điện Bàn Đông"
+        }
+    },
+    "Xã Avương": {
+        "Xã Avương": {
+            "state": "Đà Nẵng",
+            "city": "Xã Avương",
+            "ward": "Xã Avương"
+        }
+    },
+    "Xã Bà Nà": {
+        "Xã Bà Nà": {
+            "state": "Đà Nẵng",
+            "city": "Xã Bà Nà",
+            "ward": "Xã Bà Nà"
+        }
+    },
+    "Xã Bến Giằng": {
+        "Xã Bến Giằng": {
+            "state": "Đà Nẵng",
+            "city": "Xã Bến Giằng",
+            "ward": "Xã Bến Giằng"
+        }
+    },
+    "Xã Bến Hiên": {
+        "Xã Bến Hiên": {
+            "state": "Đà Nẵng",
+            "city": "Xã Bến Hiên",
+            "ward": "Xã Bến Hiên"
+        }
+    },
+    "Xã Chiên Đàn": {
+        "Xã Chiên Đàn": {
+            "state": "Đà Nẵng",
+            "city": "Xã Chiên Đàn",
+            "ward": "Xã Chiên Đàn"
+        }
+    },
+    "Xã Duy Nghĩa": {
+        "Xã Duy Nghĩa": {
+            "state": "Đà Nẵng",
+            "city": "Xã Duy Nghĩa",
+            "ward": "Xã Duy Nghĩa"
+        }
+    },
+    "Xã Duy Xuyên": {
+        "Xã Duy Xuyên": {
+            "state": "Đà Nẵng",
+            "city": "Xã Duy Xuyên",
+            "ward": "Xã Duy Xuyên"
+        }
+    },
+    "Xã Gò Nổi": {
+        "Xã Gò Nổi": {
+            "state": "Đà Nẵng",
+            "city": "Xã Gò Nổi",
+            "ward": "Xã Gò Nổi"
+        }
+    },
+    "Xã Hiệp Đức": {
+        "Xã Hiệp Đức": {
+            "state": "Đà Nẵng",
+            "city": "Xã Hiệp Đức",
+            "ward": "Xã Hiệp Đức"
+        }
+    },
+    "Xã Hà Nha": {
+        "Xã Hà Nha": {
+            "state": "Đà Nẵng",
+            "city": "Xã Hà Nha",
+            "ward": "Xã Hà Nha"
+        }
+    },
+    "Xã Hòa Tiến": {
+        "Xã Hòa Tiến": {
+            "state": "Đà Nẵng",
+            "city": "Xã Hòa Tiến",
+            "ward": "Xã Hòa Tiến"
+        }
+    },
+    "Xã Hòa Vang": {
+        "Xã Hòa Vang": {
+            "state": "Đà Nẵng",
+            "city": "Xã Hòa Vang",
+            "ward": "Xã Hòa Vang"
+        }
+    },
+    "Xã Hùng Sơn": {
+        "Xã Hùng Sơn": {
+            "state": "Đà Nẵng",
+            "city": "Xã Hùng Sơn",
+            "ward": "Xã Hùng Sơn"
+        }
+    },
+    "Xã Khâm Đức": {
+        "Xã Khâm Đức": {
+            "state": "Đà Nẵng",
+            "city": "Xã Khâm Đức",
+            "ward": "Xã Khâm Đức"
+        }
+    },
+    "Xã La Dêê": {
+        "Xã La Dêê": {
+            "state": "Đà Nẵng",
+            "city": "Xã La Dêê",
+            "ward": "Xã La Dêê"
+        }
+    },
+    "Xã La Êê": {
+        "Xã La Êê": {
+            "state": "Đà Nẵng",
+            "city": "Xã La Êê",
+            "ward": "Xã La Êê"
+        }
+    },
+    "Xã Lãnh Ngọc": {
+        "Xã Lãnh Ngọc": {
+            "state": "Đà Nẵng",
+            "city": "Xã Lãnh Ngọc",
+            "ward": "Xã Lãnh Ngọc"
+        }
+    },
+    "Xã Nam Giang": {
+        "Xã Nam Giang": {
+            "state": "Đà Nẵng",
+            "city": "Xã Nam Giang",
+            "ward": "Xã Nam Giang"
+        }
+    },
+    "Xã Nam Phước": {
+        "Xã Nam Phước": {
+            "state": "Đà Nẵng",
+            "city": "Xã Nam Phước",
+            "ward": "Xã Nam Phước"
+        }
+    },
+    "Xã Nam Trà My": {
+        "Xã Nam Trà My": {
+            "state": "Đà Nẵng",
+            "city": "Xã Nam Trà My",
+            "ward": "Xã Nam Trà My"
+        }
+    },
+    "Xã Nông Sơn": {
+        "Xã Nông Sơn": {
+            "state": "Đà Nẵng",
+            "city": "Xã Nông Sơn",
+            "ward": "Xã Nông Sơn"
+        }
+    },
+    "Xã Núi Thành": {
+        "Xã Núi Thành": {
+            "state": "Đà Nẵng",
+            "city": "Xã Núi Thành",
+            "ward": "Xã Núi Thành"
+        }
+    },
+    "Xã Phú Ninh": {
+        "Xã Phú Ninh": {
+            "state": "Đà Nẵng",
+            "city": "Xã Phú Ninh",
+            "ward": "Xã Phú Ninh"
+        }
+    },
+    "Xã Phú Thuận": {
+        "Xã Phú Thuận": {
+            "state": "Đà Nẵng",
+            "city": "Xã Phú Thuận",
+            "ward": "Xã Phú Thuận"
+        }
+    },
+    "Xã Phước Chánh": {
+        "Xã Phước Chánh": {
+            "state": "Đà Nẵng",
+            "city": "Xã Phước Chánh",
+            "ward": "Xã Phước Chánh"
+        }
+    },
+    "Xã Phước Hiệp": {
+        "Xã Phước Hiệp": {
+            "state": "Đà Nẵng",
+            "city": "Xã Phước Hiệp",
+            "ward": "Xã Phước Hiệp"
+        }
+    },
+    "Xã Phước Năng": {
+        "Xã Phước Năng": {
+            "state": "Đà Nẵng",
+            "city": "Xã Phước Năng",
+            "ward": "Xã Phước Năng"
+        }
+    },
+    "Xã Phước Thành": {
+        "Xã Phước Thành": {
+            "state": "Đà Nẵng",
+            "city": "Xã Phước Thành",
+            "ward": "Xã Phước Thành"
+        }
+    },
+    "Xã Phước Trà": {
+        "Xã Phước Trà": {
+            "state": "Đà Nẵng",
+            "city": "Xã Phước Trà",
+            "ward": "Xã Phước Trà"
+        }
+    },
+    "Xã Quế Phước": {
+        "Xã Quế Phước": {
+            "state": "Đà Nẵng",
+            "city": "Xã Quế Phước",
+            "ward": "Xã Quế Phước"
+        }
+    },
+    "Xã Quế Sơn": {
+        "Xã Quế Sơn": {
+            "state": "Đà Nẵng",
+            "city": "Xã Quế Sơn",
+            "ward": "Xã Quế Sơn"
+        }
+    },
+    "Xã Quế Sơn Trung": {
+        "Xã Quế Sơn Trung": {
+            "state": "Đà Nẵng",
+            "city": "Xã Quế Sơn Trung",
+            "ward": "Xã Quế Sơn Trung"
+        }
+    },
+    "Xã Sông Kôn": {
+        "Xã Sông Kôn": {
+            "state": "Đà Nẵng",
+            "city": "Xã Sông Kôn",
+            "ward": "Xã Sông Kôn"
+        }
+    },
+    "Xã Sông Vàng": {
+        "Xã Sông Vàng": {
+            "state": "Đà Nẵng",
+            "city": "Xã Sông Vàng",
+            "ward": "Xã Sông Vàng"
+        }
+    },
+    "Xã Sơn Cẩm Hà": {
+        "Xã Sơn Cẩm Hà": {
+            "state": "Đà Nẵng",
+            "city": "Xã Sơn Cẩm Hà",
+            "ward": "Xã Sơn Cẩm Hà"
+        }
+    },
+    "Xã Tam Anh": {
+        "Xã Tam Anh": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tam Anh",
+            "ward": "Xã Tam Anh"
+        }
+    },
+    "Xã Tam Hải": {
+        "Xã Tam Hải": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tam Hải",
+            "ward": "Xã Tam Hải"
+        }
+    },
+    "Xã Tam Mỹ": {
+        "Xã Tam Mỹ": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tam Mỹ",
+            "ward": "Xã Tam Mỹ"
+        }
+    },
+    "Xã Tam Xuân": {
+        "Xã Tam Xuân": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tam Xuân",
+            "ward": "Xã Tam Xuân"
+        }
+    },
+    "Xã Thu Bồn": {
+        "Xã Thu Bồn": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thu Bồn",
+            "ward": "Xã Thu Bồn"
+        }
+    },
+    "Xã Thăng An": {
+        "Xã Thăng An": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thăng An",
+            "ward": "Xã Thăng An"
+        }
+    },
+    "Xã Thăng Bình": {
+        "Xã Thăng Bình": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thăng Bình",
+            "ward": "Xã Thăng Bình"
+        }
+    },
+    "Xã Thăng Phú": {
+        "Xã Thăng Phú": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thăng Phú",
+            "ward": "Xã Thăng Phú"
+        }
+    },
+    "Xã Thăng Trường": {
+        "Xã Thăng Trường": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thăng Trường",
+            "ward": "Xã Thăng Trường"
+        }
+    },
+    "Xã Thăng Điền": {
+        "Xã Thăng Điền": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thăng Điền",
+            "ward": "Xã Thăng Điền"
+        }
+    },
+    "Xã Thượng Đức": {
+        "Xã Thượng Đức": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thượng Đức",
+            "ward": "Xã Thượng Đức"
+        }
+    },
+    "Xã Thạnh Bình": {
+        "Xã Thạnh Bình": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thạnh Bình",
+            "ward": "Xã Thạnh Bình"
+        }
+    },
+    "Xã Thạnh Mỹ": {
+        "Xã Thạnh Mỹ": {
+            "state": "Đà Nẵng",
+            "city": "Xã Thạnh Mỹ",
+            "ward": "Xã Thạnh Mỹ"
+        }
+    },
+    "Xã Tiên Phước": {
+        "Xã Tiên Phước": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tiên Phước",
+            "ward": "Xã Tiên Phước"
+        }
+    },
+    "Xã Trà Giáp": {
+        "Xã Trà Giáp": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Giáp",
+            "ward": "Xã Trà Giáp"
+        }
+    },
+    "Xã Trà Leng": {
+        "Xã Trà Leng": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Leng",
+            "ward": "Xã Trà Leng"
+        }
+    },
+    "Xã Trà Linh": {
+        "Xã Trà Linh": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Linh",
+            "ward": "Xã Trà Linh"
+        }
+    },
+    "Xã Trà Liên": {
+        "Xã Trà Liên": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Liên",
+            "ward": "Xã Trà Liên"
+        }
+    },
+    "Xã Trà My": {
+        "Xã Trà My": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà My",
+            "ward": "Xã Trà My"
+        }
+    },
+    "Xã Trà Tân": {
+        "Xã Trà Tân": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Tân",
+            "ward": "Xã Trà Tân"
+        }
+    },
+    "Xã Trà Tập": {
+        "Xã Trà Tập": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Tập",
+            "ward": "Xã Trà Tập"
+        }
+    },
+    "Xã Trà Vân": {
+        "Xã Trà Vân": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Vân",
+            "ward": "Xã Trà Vân"
+        }
+    },
+    "Xã Trà Đốc": {
+        "Xã Trà Đốc": {
+            "state": "Đà Nẵng",
+            "city": "Xã Trà Đốc",
+            "ward": "Xã Trà Đốc"
+        }
+    },
+    "Xã Tân Hiệp": {
+        "Xã Tân Hiệp": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tân Hiệp",
+            "ward": "Xã Tân Hiệp"
+        }
+    },
+    "Xã Tây Giang": {
+        "Xã Tây Giang": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tây Giang",
+            "ward": "Xã Tây Giang"
+        }
+    },
+    "Xã Tây Hồ": {
+        "Xã Tây Hồ": {
+            "state": "Đà Nẵng",
+            "city": "Xã Tây Hồ",
+            "ward": "Xã Tây Hồ"
+        }
+    },
+    "Xã Việt An": {
+        "Xã Việt An": {
+            "state": "Đà Nẵng",
+            "city": "Xã Việt An",
+            "ward": "Xã Việt An"
+        }
+    },
+    "Xã Vu Gia": {
+        "Xã Vu Gia": {
+            "state": "Đà Nẵng",
+            "city": "Xã Vu Gia",
+            "ward": "Xã Vu Gia"
+        }
+    },
+    "Xã Xuân Phú": {
+        "Xã Xuân Phú": {
+            "state": "Đà Nẵng",
+            "city": "Xã Xuân Phú",
+            "ward": "Xã Xuân Phú"
+        }
+    },
+    "Xã Điện Bàn Tây": {
+        "Xã Điện Bàn Tây": {
+            "state": "Đà Nẵng",
+            "city": "Xã Điện Bàn Tây",
+            "ward": "Xã Điện Bàn Tây"
+        }
+    },
+    "Xã Đông Giang": {
+        "Xã Đông Giang": {
+            "state": "Đà Nẵng",
+            "city": "Xã Đông Giang",
+            "ward": "Xã Đông Giang"
+        }
+    },
+    "Xã Đại Lộc": {
+        "Xã Đại Lộc": {
+            "state": "Đà Nẵng",
+            "city": "Xã Đại Lộc",
+            "ward": "Xã Đại Lộc"
+        }
+    },
+    "Xã Đắc Pring": {
+        "Xã Đắc Pring": {
+            "state": "Đà Nẵng",
+            "city": "Xã Đắc Pring",
+            "ward": "Xã Đắc Pring"
+        }
+    },
+    "Xã Đồng Dương": {
+        "Xã Đồng Dương": {
+            "state": "Đà Nẵng",
+            "city": "Xã Đồng Dương",
+            "ward": "Xã Đồng Dương"
+        }
+    },
+    "Xã Đức Phú": {
+        "Xã Đức Phú": {
+            "state": "Đà Nẵng",
+            "city": "Xã Đức Phú",
+            "ward": "Xã Đức Phú"
+        }
+    }
+}

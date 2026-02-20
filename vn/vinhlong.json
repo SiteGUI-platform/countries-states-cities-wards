@@ -1,1 +1,870 @@
-{"V\u0169ng Li\u00eam":{"Th\u1ecb tr\u1ea5n V\u0169ng Li\u00eam":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"Th\u1ecb tr\u1ea5n V\u0169ng Li\u00eam"},"X\u00e3 T\u00e2n Qu\u1edbi Trung":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 T\u00e2n Qu\u1edbi Trung"},"X\u00e3 Qu\u1edbi Thi\u1ec7n":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Qu\u1edbi Thi\u1ec7n"},"X\u00e3 Qu\u1edbi An":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Qu\u1edbi An"},"X\u00e3 Trung Ch\u00e1nh":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Ch\u00e1nh"},"X\u00e3 T\u00e2n An Lu\u00f4ng":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 T\u00e2n An Lu\u00f4ng"},"X\u00e3 Thanh B\u00ecnh":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Thanh B\u00ecnh"},"X\u00e3 Trung Th\u00e0nh T\u00e2y":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Th\u00e0nh T\u00e2y"},"X\u00e3 Trung Hi\u1ec7p":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Hi\u1ec7p"},"X\u00e3 Hi\u1ebfu Ph\u1ee5ng":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Hi\u1ebfu Ph\u1ee5ng"},"X\u00e3 Trung Th\u00e0nh \u0110\u00f4ng":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Th\u00e0nh \u0110\u00f4ng"},"X\u00e3 Trung Th\u00e0nh":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Th\u00e0nh"},"X\u00e3 Trung Hi\u1ebfu":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Hi\u1ebfu"},"X\u00e3 Trung Ng\u00e3i":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Ng\u00e3i"},"X\u00e3 Hi\u1ebfu Thu\u1eadn":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Hi\u1ebfu Thu\u1eadn"},"X\u00e3 Trung Ngh\u0129a":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung Ngh\u0129a"},"X\u00e3 Trung An":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Trung An"},"X\u00e3 Hi\u1ebfu Nh\u01a1n":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Hi\u1ebfu Nh\u01a1n"},"X\u00e3 Hi\u1ebfu Th\u00e0nh":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Hi\u1ebfu Th\u00e0nh"},"X\u00e3 Hi\u1ebfu Ngh\u0129a":{"state":"V\u0129nh Long","city":"V\u0169ng Li\u00eam","ward":"X\u00e3 Hi\u1ebfu Ngh\u0129a"}},"B\u00ecnh T\u00e2n":{"X\u00e3 T\u00e2n H\u01b0ng":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 T\u00e2n H\u01b0ng"},"X\u00e3 T\u00e2n Th\u00e0nh":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 T\u00e2n Th\u00e0nh"},"X\u00e3 Th\u00e0nh Trung":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 Th\u00e0nh Trung"},"X\u00e3 T\u00e2n An Th\u1ea1nh":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 T\u00e2n An Th\u1ea1nh"},"X\u00e3 T\u00e2n L\u01b0\u1ee3c":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 T\u00e2n L\u01b0\u1ee3c"},"X\u00e3 Nguy\u1ec5n V\u0103n Th\u1ea3nh":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 Nguy\u1ec5n V\u0103n Th\u1ea3nh"},"X\u00e3 Th\u00e0nh L\u1ee3i":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 Th\u00e0nh L\u1ee3i"},"X\u00e3 M\u1ef9 Thu\u1eadn":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 M\u1ef9 Thu\u1eadn"},"X\u00e3 T\u00e2n B\u00ecnh":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"X\u00e3 T\u00e2n B\u00ecnh"},"Th\u1ecb tr\u1ea5n T\u00e2n Qu\u1edbi":{"state":"V\u0129nh Long","city":"B\u00ecnh T\u00e2n","ward":"Th\u1ecb tr\u1ea5n T\u00e2n Qu\u1edbi"}},"Long H\u1ed3":{"Th\u1ecb tr\u1ea5n Long H\u1ed3":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"Th\u1ecb tr\u1ea5n Long H\u1ed3"},"X\u00e3 \u0110\u1ed3ng Ph\u00fa":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 \u0110\u1ed3ng Ph\u00fa"},"X\u00e3 B\u00ecnh H\u00f2a Ph\u01b0\u1edbc":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 B\u00ecnh H\u00f2a Ph\u01b0\u1edbc"},"X\u00e3 H\u00f2a Ninh":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 H\u00f2a Ninh"},"X\u00e3 An B\u00ecnh":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 An B\u00ecnh"},"X\u00e3 Thanh \u0110\u1ee9c":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 Thanh \u0110\u1ee9c"},"X\u00e3 T\u00e2n H\u1ea1nh":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 T\u00e2n H\u1ea1nh"},"X\u00e3 Ph\u01b0\u1edbc H\u1eadu":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 Ph\u01b0\u1edbc H\u1eadu"},"X\u00e3 Long Ph\u01b0\u1edbc":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 Long Ph\u01b0\u1edbc"},"X\u00e3 Ph\u00fa \u0110\u1ee9c":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 Ph\u00fa \u0110\u1ee9c"},"X\u00e3 L\u1ed9c H\u00f2a":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 L\u1ed9c H\u00f2a"},"X\u00e3 Long An":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 Long An"},"X\u00e3 Ph\u00fa Qu\u1edbi":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 Ph\u00fa Qu\u1edbi"},"X\u00e3 Th\u1ea1nh Qu\u1edbi":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 Th\u1ea1nh Qu\u1edbi"},"X\u00e3 H\u00f2a Ph\u00fa":{"state":"V\u0129nh Long","city":"Long H\u1ed3","ward":"X\u00e3 H\u00f2a Ph\u00fa"}},"Mang Th\u00edt":{"X\u00e3 M\u1ef9 An":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 M\u1ef9 An"},"X\u00e3 M\u1ef9 Ph\u01b0\u1edbc":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 M\u1ef9 Ph\u01b0\u1edbc"},"X\u00e3 An Ph\u01b0\u1edbc":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 An Ph\u01b0\u1edbc"},"X\u00e3 Nh\u01a1n Ph\u00fa":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 Nh\u01a1n Ph\u00fa"},"X\u00e3 Long M\u1ef9":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 Long M\u1ef9"},"X\u00e3 H\u00f2a T\u1ecbnh":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 H\u00f2a T\u1ecbnh"},"Th\u1ecb tr\u1ea5n C\u00e1i Nhum":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"Th\u1ecb tr\u1ea5n C\u00e1i Nhum"},"X\u00e3 B\u00ecnh Ph\u01b0\u1edbc":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 B\u00ecnh Ph\u01b0\u1edbc"},"X\u00e3 Ch\u00e1nh An":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 Ch\u00e1nh An"},"X\u00e3 T\u00e2n An H\u1ed9i":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 T\u00e2n An H\u1ed9i"},"X\u00e3 T\u00e2n Long":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 T\u00e2n Long"},"X\u00e3 T\u00e2n Long H\u1ed9i":{"state":"V\u0129nh Long","city":"Mang Th\u00edt","ward":"X\u00e3 T\u00e2n Long H\u1ed9i"}},"Tam B\u00ecnh":{"Th\u1ecb tr\u1ea5n Tam B\u00ecnh":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"Th\u1ecb tr\u1ea5n Tam B\u00ecnh"},"X\u00e3 T\u00e2n L\u1ed9c":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 T\u00e2n L\u1ed9c"},"X\u00e3 Ph\u00fa Th\u1ecbnh":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 Ph\u00fa Th\u1ecbnh"},"X\u00e3 H\u1eadu L\u1ed9c":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 H\u1eadu L\u1ed9c"},"X\u00e3 H\u00f2a Th\u1ea1nh":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 H\u00f2a Th\u1ea1nh"},"X\u00e3 Ho\u00e0 L\u1ed9c":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 Ho\u00e0 L\u1ed9c"},"X\u00e3 Ph\u00fa L\u1ed9c":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 Ph\u00fa L\u1ed9c"},"X\u00e3 Song Ph\u00fa":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 Song Ph\u00fa"},"X\u00e3 H\u00f2a Hi\u1ec7p":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 H\u00f2a Hi\u1ec7p"},"X\u00e3 M\u1ef9 L\u1ed9c":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 M\u1ef9 L\u1ed9c"},"X\u00e3 T\u00e2n Ph\u00fa":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 T\u00e2n Ph\u00fa"},"X\u00e3 Long Ph\u00fa":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 Long Ph\u00fa"},"X\u00e3 M\u1ef9 Th\u1ea1nh Trung":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 M\u1ef9 Th\u1ea1nh Trung"},"X\u00e3 T\u01b0\u1eddng L\u1ed9c":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 T\u01b0\u1eddng L\u1ed9c"},"X\u00e3 Loan M\u1ef9":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 Loan M\u1ef9"},"X\u00e3 Ng\u00e3i T\u1ee9":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 Ng\u00e3i T\u1ee9"},"X\u00e3 B\u00ecnh Ninh":{"state":"V\u0129nh Long","city":"Tam B\u00ecnh","ward":"X\u00e3 B\u00ecnh Ninh"}},"Tp V\u0129nh Long":{"Ph\u01b0\u1eddng 9":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng 9"},"Ph\u01b0\u1eddng 5":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng 5"},"Ph\u01b0\u1eddng 1":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng 1"},"Ph\u01b0\u1eddng 2":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng 2"},"Ph\u01b0\u1eddng 4":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng 4"},"Ph\u01b0\u1eddng 3":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng 3"},"Ph\u01b0\u1eddng 8":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng 8"},"Ph\u01b0\u1eddng T\u00e2n Ng\u00e3i":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng T\u00e2n Ng\u00e3i"},"Ph\u01b0\u1eddng T\u00e2n H\u00f2a":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng T\u00e2n H\u00f2a"},"Ph\u01b0\u1eddng T\u00e2n H\u1ed9i":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng T\u00e2n H\u1ed9i"},"Ph\u01b0\u1eddng Tr\u01b0\u1eddng An":{"state":"V\u0129nh Long","city":"Tp V\u0129nh Long","ward":"Ph\u01b0\u1eddng Tr\u01b0\u1eddng An"}},"Th\u1ecb x\u00e3 B\u00ecnh Minh":{"Ph\u01b0\u1eddng C\u00e1i V\u1ed3n":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"Ph\u01b0\u1eddng C\u00e1i V\u1ed3n"},"Ph\u01b0\u1eddng Th\u00e0nh Ph\u01b0\u1edbc":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"Ph\u01b0\u1eddng Th\u00e0nh Ph\u01b0\u1edbc"},"X\u00e3 Thu\u1eadn An":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"X\u00e3 Thu\u1eadn An"},"X\u00e3 \u0110\u00f4ng Th\u1ea1nh":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"X\u00e3 \u0110\u00f4ng Th\u1ea1nh"},"X\u00e3 \u0110\u00f4ng B\u00ecnh":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"X\u00e3 \u0110\u00f4ng B\u00ecnh"},"Ph\u01b0\u1eddng \u0110\u00f4ng Thu\u1eadn":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"Ph\u01b0\u1eddng \u0110\u00f4ng Thu\u1eadn"},"X\u00e3 M\u1ef9 H\u00f2a":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"X\u00e3 M\u1ef9 H\u00f2a"},"X\u00e3 \u0110\u00f4ng Th\u00e0nh":{"state":"V\u0129nh Long","city":"Th\u1ecb x\u00e3 B\u00ecnh Minh","ward":"X\u00e3 \u0110\u00f4ng Th\u00e0nh"}},"Tr\u00e0 \u00d4n":{"Th\u1ecb tr\u1ea5n Tr\u00e0 \u00d4n":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"Th\u1ecb tr\u1ea5n Tr\u00e0 \u00d4n"},"X\u00e3 Xu\u00e2n Hi\u1ec7p":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 Xu\u00e2n Hi\u1ec7p"},"X\u00e3 Nh\u01a1n B\u00ecnh":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 Nh\u01a1n B\u00ecnh"},"X\u00e3 H\u00f2a B\u00ecnh":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 H\u00f2a B\u00ecnh"},"X\u00e3 Th\u1edbi H\u00f2a":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 Th\u1edbi H\u00f2a"},"X\u00e3 Tr\u00e0 C\u00f4n":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 Tr\u00e0 C\u00f4n"},"X\u00e3 T\u00e2n M\u1ef9":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 T\u00e2n M\u1ef9"},"X\u00e3 H\u1ef1u Th\u00e0nh":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 H\u1ef1u Th\u00e0nh"},"X\u00e3 V\u0129nh Xu\u00e2n":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 V\u0129nh Xu\u00e2n"},"X\u00e3 Thu\u1eadn Th\u1edbi":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 Thu\u1eadn Th\u1edbi"},"X\u00e3 Ph\u00fa Th\u00e0nh":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 Ph\u00fa Th\u00e0nh"},"X\u00e3 Thi\u1ec7n M\u1ef9":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 Thi\u1ec7n M\u1ef9"},"X\u00e3 L\u1ee5c S\u1ef9 Th\u00e0nh":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 L\u1ee5c S\u1ef9 Th\u00e0nh"},"X\u00e3 T\u00edch Thi\u1ec7n":{"state":"V\u0129nh Long","city":"Tr\u00e0 \u00d4n","ward":"X\u00e3 T\u00edch Thi\u1ec7n"}}}
+{
+    "Phường An Hội ": {
+        "Phường An Hội ": {
+            "state": "Vĩnh Long",
+            "city": "Phường An Hội ",
+            "ward": "Phường An Hội "
+        }
+    },
+    "Phường Bình Minh ": {
+        "Phường Bình Minh ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Bình Minh ",
+            "ward": "Phường Bình Minh "
+        }
+    },
+    "Phường Bến Tre ": {
+        "Phường Bến Tre ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Bến Tre ",
+            "ward": "Phường Bến Tre "
+        }
+    },
+    "Phường Cái Vồn ": {
+        "Phường Cái Vồn ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Cái Vồn ",
+            "ward": "Phường Cái Vồn "
+        }
+    },
+    "Phường Duyên Hải": {
+        "Phường Duyên Hải": {
+            "state": "Vĩnh Long",
+            "city": "Phường Duyên Hải",
+            "ward": "Phường Duyên Hải"
+        }
+    },
+    "Phường Hòa Thuận": {
+        "Phường Hòa Thuận": {
+            "state": "Vĩnh Long",
+            "city": "Phường Hòa Thuận",
+            "ward": "Phường Hòa Thuận"
+        }
+    },
+    "Phường Long Châu ": {
+        "Phường Long Châu ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Long Châu ",
+            "ward": "Phường Long Châu "
+        }
+    },
+    "Phường Long Đức ": {
+        "Phường Long Đức ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Long Đức ",
+            "ward": "Phường Long Đức "
+        }
+    },
+    "Phường Nguyệt Hóa": {
+        "Phường Nguyệt Hóa": {
+            "state": "Vĩnh Long",
+            "city": "Phường Nguyệt Hóa",
+            "ward": "Phường Nguyệt Hóa"
+        }
+    },
+    "Phường Phú Khương ": {
+        "Phường Phú Khương ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Phú Khương ",
+            "ward": "Phường Phú Khương "
+        }
+    },
+    "Phường Phú Tân ": {
+        "Phường Phú Tân ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Phú Tân ",
+            "ward": "Phường Phú Tân "
+        }
+    },
+    "Phường Phước Hậu ": {
+        "Phường Phước Hậu ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Phước Hậu ",
+            "ward": "Phường Phước Hậu "
+        }
+    },
+    "Phường Sơn Đông ": {
+        "Phường Sơn Đông ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Sơn Đông ",
+            "ward": "Phường Sơn Đông "
+        }
+    },
+    "Phường Thanh Đức ": {
+        "Phường Thanh Đức ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Thanh Đức ",
+            "ward": "Phường Thanh Đức "
+        }
+    },
+    "Phường Trà Vinh ": {
+        "Phường Trà Vinh ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Trà Vinh ",
+            "ward": "Phường Trà Vinh "
+        }
+    },
+    "Phường Trường Long Hòa": {
+        "Phường Trường Long Hòa": {
+            "state": "Vĩnh Long",
+            "city": "Phường Trường Long Hòa",
+            "ward": "Phường Trường Long Hòa"
+        }
+    },
+    "Phường Tân Hạnh ": {
+        "Phường Tân Hạnh ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Tân Hạnh ",
+            "ward": "Phường Tân Hạnh "
+        }
+    },
+    "Phường Tân Ngãi ": {
+        "Phường Tân Ngãi ": {
+            "state": "Vĩnh Long",
+            "city": "Phường Tân Ngãi ",
+            "ward": "Phường Tân Ngãi "
+        }
+    },
+    "Phường Đông Thành": {
+        "Phường Đông Thành": {
+            "state": "Vĩnh Long",
+            "city": "Phường Đông Thành",
+            "ward": "Phường Đông Thành"
+        }
+    },
+    "Xã An Bình": {
+        "Xã An Bình": {
+            "state": "Vĩnh Long",
+            "city": "Xã An Bình",
+            "ward": "Xã An Bình"
+        }
+    },
+    "Xã An Hiệp ": {
+        "Xã An Hiệp ": {
+            "state": "Vĩnh Long",
+            "city": "Xã An Hiệp ",
+            "ward": "Xã An Hiệp "
+        }
+    },
+    "Xã An Ngãi Trung": {
+        "Xã An Ngãi Trung": {
+            "state": "Vĩnh Long",
+            "city": "Xã An Ngãi Trung",
+            "ward": "Xã An Ngãi Trung"
+        }
+    },
+    "Xã An Phú Tân": {
+        "Xã An Phú Tân": {
+            "state": "Vĩnh Long",
+            "city": "Xã An Phú Tân",
+            "ward": "Xã An Phú Tân"
+        }
+    },
+    "Xã An Qui": {
+        "Xã An Qui": {
+            "state": "Vĩnh Long",
+            "city": "Xã An Qui",
+            "ward": "Xã An Qui"
+        }
+    },
+    "Xã An Trường": {
+        "Xã An Trường": {
+            "state": "Vĩnh Long",
+            "city": "Xã An Trường",
+            "ward": "Xã An Trường"
+        }
+    },
+    "Xã An Định": {
+        "Xã An Định": {
+            "state": "Vĩnh Long",
+            "city": "Xã An Định",
+            "ward": "Xã An Định"
+        }
+    },
+    "Xã Ba Tri ": {
+        "Xã Ba Tri ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Ba Tri ",
+            "ward": "Xã Ba Tri "
+        }
+    },
+    "Xã Bình Phú": {
+        "Xã Bình Phú": {
+            "state": "Vĩnh Long",
+            "city": "Xã Bình Phú",
+            "ward": "Xã Bình Phú"
+        }
+    },
+    "Xã Bình Phước ": {
+        "Xã Bình Phước ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Bình Phước ",
+            "ward": "Xã Bình Phước "
+        }
+    },
+    "Xã Bình Đại ": {
+        "Xã Bình Đại ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Bình Đại ",
+            "ward": "Xã Bình Đại "
+        }
+    },
+    "Xã Bảo Thạnh ": {
+        "Xã Bảo Thạnh ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Bảo Thạnh ",
+            "ward": "Xã Bảo Thạnh "
+        }
+    },
+    "Xã Châu Hòa ": {
+        "Xã Châu Hòa ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Châu Hòa ",
+            "ward": "Xã Châu Hòa "
+        }
+    },
+    "Xã Châu Hưng": {
+        "Xã Châu Hưng": {
+            "state": "Vĩnh Long",
+            "city": "Xã Châu Hưng",
+            "ward": "Xã Châu Hưng"
+        }
+    },
+    "Xã Châu Thành": {
+        "Xã Châu Thành": {
+            "state": "Vĩnh Long",
+            "city": "Xã Châu Thành",
+            "ward": "Xã Châu Thành"
+        }
+    },
+    "Xã Chợ Lách": {
+        "Xã Chợ Lách": {
+            "state": "Vĩnh Long",
+            "city": "Xã Chợ Lách",
+            "ward": "Xã Chợ Lách"
+        }
+    },
+    "Xã Càng Long": {
+        "Xã Càng Long": {
+            "state": "Vĩnh Long",
+            "city": "Xã Càng Long",
+            "ward": "Xã Càng Long"
+        }
+    },
+    "Xã Cái Ngang ": {
+        "Xã Cái Ngang ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Cái Ngang ",
+            "ward": "Xã Cái Ngang "
+        }
+    },
+    "Xã Cái Nhum ": {
+        "Xã Cái Nhum ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Cái Nhum ",
+            "ward": "Xã Cái Nhum "
+        }
+    },
+    "Xã Cầu Kè": {
+        "Xã Cầu Kè": {
+            "state": "Vĩnh Long",
+            "city": "Xã Cầu Kè",
+            "ward": "Xã Cầu Kè"
+        }
+    },
+    "Xã Cầu Ngang": {
+        "Xã Cầu Ngang": {
+            "state": "Vĩnh Long",
+            "city": "Xã Cầu Ngang",
+            "ward": "Xã Cầu Ngang"
+        }
+    },
+    "Xã Giao Long": {
+        "Xã Giao Long": {
+            "state": "Vĩnh Long",
+            "city": "Xã Giao Long",
+            "ward": "Xã Giao Long"
+        }
+    },
+    "Xã Giồng Trôm": {
+        "Xã Giồng Trôm": {
+            "state": "Vĩnh Long",
+            "city": "Xã Giồng Trôm",
+            "ward": "Xã Giồng Trôm"
+        }
+    },
+    "Xã Hiếu Phụng ": {
+        "Xã Hiếu Phụng ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hiếu Phụng ",
+            "ward": "Xã Hiếu Phụng "
+        }
+    },
+    "Xã Hiếu Thành": {
+        "Xã Hiếu Thành": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hiếu Thành",
+            "ward": "Xã Hiếu Thành"
+        }
+    },
+    "Xã Hiệp Mỹ": {
+        "Xã Hiệp Mỹ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hiệp Mỹ",
+            "ward": "Xã Hiệp Mỹ"
+        }
+    },
+    "Xã Hàm Giang": {
+        "Xã Hàm Giang": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hàm Giang",
+            "ward": "Xã Hàm Giang"
+        }
+    },
+    "Xã Hòa Bình": {
+        "Xã Hòa Bình": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hòa Bình",
+            "ward": "Xã Hòa Bình"
+        }
+    },
+    "Xã Hòa Hiệp": {
+        "Xã Hòa Hiệp": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hòa Hiệp",
+            "ward": "Xã Hòa Hiệp"
+        }
+    },
+    "Xã Hòa Minh": {
+        "Xã Hòa Minh": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hòa Minh",
+            "ward": "Xã Hòa Minh"
+        }
+    },
+    "Xã Hùng Hòa": {
+        "Xã Hùng Hòa": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hùng Hòa",
+            "ward": "Xã Hùng Hòa"
+        }
+    },
+    "Xã Hưng Khánh Trung": {
+        "Xã Hưng Khánh Trung": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hưng Khánh Trung",
+            "ward": "Xã Hưng Khánh Trung"
+        }
+    },
+    "Xã Hưng Mỹ": {
+        "Xã Hưng Mỹ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hưng Mỹ",
+            "ward": "Xã Hưng Mỹ"
+        }
+    },
+    "Xã Hưng Nhượng": {
+        "Xã Hưng Nhượng": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hưng Nhượng",
+            "ward": "Xã Hưng Nhượng"
+        }
+    },
+    "Xã Hương Mỹ ": {
+        "Xã Hương Mỹ ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Hương Mỹ ",
+            "ward": "Xã Hương Mỹ "
+        }
+    },
+    "Xã Long Hiệp": {
+        "Xã Long Hiệp": {
+            "state": "Vĩnh Long",
+            "city": "Xã Long Hiệp",
+            "ward": "Xã Long Hiệp"
+        }
+    },
+    "Xã Long Hòa": {
+        "Xã Long Hòa": {
+            "state": "Vĩnh Long",
+            "city": "Xã Long Hòa",
+            "ward": "Xã Long Hòa"
+        }
+    },
+    "Xã Long Hồ": {
+        "Xã Long Hồ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Long Hồ",
+            "ward": "Xã Long Hồ"
+        }
+    },
+    "Xã Long Hữu": {
+        "Xã Long Hữu": {
+            "state": "Vĩnh Long",
+            "city": "Xã Long Hữu",
+            "ward": "Xã Long Hữu"
+        }
+    },
+    "Xã Long Thành": {
+        "Xã Long Thành": {
+            "state": "Vĩnh Long",
+            "city": "Xã Long Thành",
+            "ward": "Xã Long Thành"
+        }
+    },
+    "Xã Long Vĩnh": {
+        "Xã Long Vĩnh": {
+            "state": "Vĩnh Long",
+            "city": "Xã Long Vĩnh",
+            "ward": "Xã Long Vĩnh"
+        }
+    },
+    "Xã Lưu Nghiệp Anh": {
+        "Xã Lưu Nghiệp Anh": {
+            "state": "Vĩnh Long",
+            "city": "Xã Lưu Nghiệp Anh",
+            "ward": "Xã Lưu Nghiệp Anh"
+        }
+    },
+    "Xã Lương Hòa": {
+        "Xã Lương Hòa": {
+            "state": "Vĩnh Long",
+            "city": "Xã Lương Hòa",
+            "ward": "Xã Lương Hòa"
+        }
+    },
+    "Xã Lương Phú ": {
+        "Xã Lương Phú ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Lương Phú ",
+            "ward": "Xã Lương Phú "
+        }
+    },
+    "Xã Lộc Thuận ": {
+        "Xã Lộc Thuận ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Lộc Thuận ",
+            "ward": "Xã Lộc Thuận "
+        }
+    },
+    "Xã Lục Sĩ Thành ": {
+        "Xã Lục Sĩ Thành ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Lục Sĩ Thành ",
+            "ward": "Xã Lục Sĩ Thành "
+        }
+    },
+    "Xã Mỏ Cày ": {
+        "Xã Mỏ Cày ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Mỏ Cày ",
+            "ward": "Xã Mỏ Cày "
+        }
+    },
+    "Xã Mỹ Chánh Hòa ": {
+        "Xã Mỹ Chánh Hòa ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Mỹ Chánh Hòa ",
+            "ward": "Xã Mỹ Chánh Hòa "
+        }
+    },
+    "Xã Mỹ Long": {
+        "Xã Mỹ Long": {
+            "state": "Vĩnh Long",
+            "city": "Xã Mỹ Long",
+            "ward": "Xã Mỹ Long"
+        }
+    },
+    "Xã Mỹ Thuận ": {
+        "Xã Mỹ Thuận ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Mỹ Thuận ",
+            "ward": "Xã Mỹ Thuận "
+        }
+    },
+    "Xã Ngãi Tứ ": {
+        "Xã Ngãi Tứ ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Ngãi Tứ ",
+            "ward": "Xã Ngãi Tứ "
+        }
+    },
+    "Xã Ngũ Lạc": {
+        "Xã Ngũ Lạc": {
+            "state": "Vĩnh Long",
+            "city": "Xã Ngũ Lạc",
+            "ward": "Xã Ngũ Lạc"
+        }
+    },
+    "Xã Nhuận Phú Tân": {
+        "Xã Nhuận Phú Tân": {
+            "state": "Vĩnh Long",
+            "city": "Xã Nhuận Phú Tân",
+            "ward": "Xã Nhuận Phú Tân"
+        }
+    },
+    "Xã Nhơn Phú ": {
+        "Xã Nhơn Phú ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Nhơn Phú ",
+            "ward": "Xã Nhơn Phú "
+        }
+    },
+    "Xã Nhị Long": {
+        "Xã Nhị Long": {
+            "state": "Vĩnh Long",
+            "city": "Xã Nhị Long",
+            "ward": "Xã Nhị Long"
+        }
+    },
+    "Xã Nhị Trường": {
+        "Xã Nhị Trường": {
+            "state": "Vĩnh Long",
+            "city": "Xã Nhị Trường",
+            "ward": "Xã Nhị Trường"
+        }
+    },
+    "Xã Phong Thạnh": {
+        "Xã Phong Thạnh": {
+            "state": "Vĩnh Long",
+            "city": "Xã Phong Thạnh",
+            "ward": "Xã Phong Thạnh"
+        }
+    },
+    "Xã Phú Phụng": {
+        "Xã Phú Phụng": {
+            "state": "Vĩnh Long",
+            "city": "Xã Phú Phụng",
+            "ward": "Xã Phú Phụng"
+        }
+    },
+    "Xã Phú Quới ": {
+        "Xã Phú Quới ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Phú Quới ",
+            "ward": "Xã Phú Quới "
+        }
+    },
+    "Xã Phú Thuận ": {
+        "Xã Phú Thuận ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Phú Thuận ",
+            "ward": "Xã Phú Thuận "
+        }
+    },
+    "Xã Phú Túc ": {
+        "Xã Phú Túc ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Phú Túc ",
+            "ward": "Xã Phú Túc "
+        }
+    },
+    "Xã Phước Long": {
+        "Xã Phước Long": {
+            "state": "Vĩnh Long",
+            "city": "Xã Phước Long",
+            "ward": "Xã Phước Long"
+        }
+    },
+    "Xã Phước Mỹ Trung ": {
+        "Xã Phước Mỹ Trung ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Phước Mỹ Trung ",
+            "ward": "Xã Phước Mỹ Trung "
+        }
+    },
+    "Xã Quới An ": {
+        "Xã Quới An ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Quới An ",
+            "ward": "Xã Quới An "
+        }
+    },
+    "Xã Quới Thiện": {
+        "Xã Quới Thiện": {
+            "state": "Vĩnh Long",
+            "city": "Xã Quới Thiện",
+            "ward": "Xã Quới Thiện"
+        }
+    },
+    "Xã Quới Điền": {
+        "Xã Quới Điền": {
+            "state": "Vĩnh Long",
+            "city": "Xã Quới Điền",
+            "ward": "Xã Quới Điền"
+        }
+    },
+    "Xã Song Lộc": {
+        "Xã Song Lộc": {
+            "state": "Vĩnh Long",
+            "city": "Xã Song Lộc",
+            "ward": "Xã Song Lộc"
+        }
+    },
+    "Xã Song Phú": {
+        "Xã Song Phú": {
+            "state": "Vĩnh Long",
+            "city": "Xã Song Phú",
+            "ward": "Xã Song Phú"
+        }
+    },
+    "Xã Tam Bình": {
+        "Xã Tam Bình": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tam Bình",
+            "ward": "Xã Tam Bình"
+        }
+    },
+    "Xã Tam Ngãi ": {
+        "Xã Tam Ngãi ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tam Ngãi ",
+            "ward": "Xã Tam Ngãi "
+        }
+    },
+    "Xã Thành Thới ": {
+        "Xã Thành Thới ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Thành Thới ",
+            "ward": "Xã Thành Thới "
+        }
+    },
+    "Xã Thạnh Hải": {
+        "Xã Thạnh Hải": {
+            "state": "Vĩnh Long",
+            "city": "Xã Thạnh Hải",
+            "ward": "Xã Thạnh Hải"
+        }
+    },
+    "Xã Thạnh Phong": {
+        "Xã Thạnh Phong": {
+            "state": "Vĩnh Long",
+            "city": "Xã Thạnh Phong",
+            "ward": "Xã Thạnh Phong"
+        }
+    },
+    "Xã Thạnh Phú": {
+        "Xã Thạnh Phú": {
+            "state": "Vĩnh Long",
+            "city": "Xã Thạnh Phú",
+            "ward": "Xã Thạnh Phú"
+        }
+    },
+    "Xã Thạnh Phước ": {
+        "Xã Thạnh Phước ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Thạnh Phước ",
+            "ward": "Xã Thạnh Phước "
+        }
+    },
+    "Xã Thạnh Trị ": {
+        "Xã Thạnh Trị ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Thạnh Trị ",
+            "ward": "Xã Thạnh Trị "
+        }
+    },
+    "Xã Thới Thuận": {
+        "Xã Thới Thuận": {
+            "state": "Vĩnh Long",
+            "city": "Xã Thới Thuận",
+            "ward": "Xã Thới Thuận"
+        }
+    },
+    "Xã Tiên Thủy ": {
+        "Xã Tiên Thủy ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tiên Thủy ",
+            "ward": "Xã Tiên Thủy "
+        }
+    },
+    "Xã Tiểu Cần": {
+        "Xã Tiểu Cần": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tiểu Cần",
+            "ward": "Xã Tiểu Cần"
+        }
+    },
+    "Xã Trung Hiệp": {
+        "Xã Trung Hiệp": {
+            "state": "Vĩnh Long",
+            "city": "Xã Trung Hiệp",
+            "ward": "Xã Trung Hiệp"
+        }
+    },
+    "Xã Trung Ngãi": {
+        "Xã Trung Ngãi": {
+            "state": "Vĩnh Long",
+            "city": "Xã Trung Ngãi",
+            "ward": "Xã Trung Ngãi"
+        }
+    },
+    "Xã Trung Thành": {
+        "Xã Trung Thành": {
+            "state": "Vĩnh Long",
+            "city": "Xã Trung Thành",
+            "ward": "Xã Trung Thành"
+        }
+    },
+    "Xã Trà Côn": {
+        "Xã Trà Côn": {
+            "state": "Vĩnh Long",
+            "city": "Xã Trà Côn",
+            "ward": "Xã Trà Côn"
+        }
+    },
+    "Xã Trà Cú": {
+        "Xã Trà Cú": {
+            "state": "Vĩnh Long",
+            "city": "Xã Trà Cú",
+            "ward": "Xã Trà Cú"
+        }
+    },
+    "Xã Trà Ôn": {
+        "Xã Trà Ôn": {
+            "state": "Vĩnh Long",
+            "city": "Xã Trà Ôn",
+            "ward": "Xã Trà Ôn"
+        }
+    },
+    "Xã Tân An": {
+        "Xã Tân An": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân An",
+            "ward": "Xã Tân An"
+        }
+    },
+    "Xã Tân Hào": {
+        "Xã Tân Hào": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Hào",
+            "ward": "Xã Tân Hào"
+        }
+    },
+    "Xã Tân Hòa": {
+        "Xã Tân Hòa": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Hòa",
+            "ward": "Xã Tân Hòa"
+        }
+    },
+    "Xã Tân Long Hội": {
+        "Xã Tân Long Hội": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Long Hội",
+            "ward": "Xã Tân Long Hội"
+        }
+    },
+    "Xã Tân Lược": {
+        "Xã Tân Lược": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Lược",
+            "ward": "Xã Tân Lược"
+        }
+    },
+    "Xã Tân Phú ": {
+        "Xã Tân Phú ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Phú ",
+            "ward": "Xã Tân Phú "
+        }
+    },
+    "Xã Tân Quới ": {
+        "Xã Tân Quới ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Quới ",
+            "ward": "Xã Tân Quới "
+        }
+    },
+    "Xã Tân Thành Bình ": {
+        "Xã Tân Thành Bình ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Thành Bình ",
+            "ward": "Xã Tân Thành Bình "
+        }
+    },
+    "Xã Tân Thủy": {
+        "Xã Tân Thủy": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Thủy",
+            "ward": "Xã Tân Thủy"
+        }
+    },
+    "Xã Tân Xuân": {
+        "Xã Tân Xuân": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tân Xuân",
+            "ward": "Xã Tân Xuân"
+        }
+    },
+    "Xã Tập Ngãi": {
+        "Xã Tập Ngãi": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tập Ngãi",
+            "ward": "Xã Tập Ngãi"
+        }
+    },
+    "Xã Tập Sơn ": {
+        "Xã Tập Sơn ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Tập Sơn ",
+            "ward": "Xã Tập Sơn "
+        }
+    },
+    "Xã Vinh Kim": {
+        "Xã Vinh Kim": {
+            "state": "Vĩnh Long",
+            "city": "Xã Vinh Kim",
+            "ward": "Xã Vinh Kim"
+        }
+    },
+    "Xã Vĩnh Thành ": {
+        "Xã Vĩnh Thành ": {
+            "state": "Vĩnh Long",
+            "city": "Xã Vĩnh Thành ",
+            "ward": "Xã Vĩnh Thành "
+        }
+    },
+    "Xã Vĩnh Xuân": {
+        "Xã Vĩnh Xuân": {
+            "state": "Vĩnh Long",
+            "city": "Xã Vĩnh Xuân",
+            "ward": "Xã Vĩnh Xuân"
+        }
+    },
+    "Xã Đôn Châu": {
+        "Xã Đôn Châu": {
+            "state": "Vĩnh Long",
+            "city": "Xã Đôn Châu",
+            "ward": "Xã Đôn Châu"
+        }
+    },
+    "Xã Đông Hải": {
+        "Xã Đông Hải": {
+            "state": "Vĩnh Long",
+            "city": "Xã Đông Hải",
+            "ward": "Xã Đông Hải"
+        }
+    },
+    "Xã Đại An": {
+        "Xã Đại An": {
+            "state": "Vĩnh Long",
+            "city": "Xã Đại An",
+            "ward": "Xã Đại An"
+        }
+    },
+    "Xã Đại Điền": {
+        "Xã Đại Điền": {
+            "state": "Vĩnh Long",
+            "city": "Xã Đại Điền",
+            "ward": "Xã Đại Điền"
+        }
+    },
+    "Xã Đồng Khởi": {
+        "Xã Đồng Khởi": {
+            "state": "Vĩnh Long",
+            "city": "Xã Đồng Khởi",
+            "ward": "Xã Đồng Khởi"
+        }
+    }
+}
